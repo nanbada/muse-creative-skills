@@ -1,5 +1,7 @@
 # Muse Creative Skills
 
+[한국어](README.ko.md) | English
+
 Image & video production skills for AI agents (Muse, Claude Code, and
 compatible assistants). Each skill is a `SKILL.md` plus its references —
 install one skill or the whole collection.
