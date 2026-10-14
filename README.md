@@ -24,6 +24,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 | `pose-reference` | Pick a pose for character image generation from 8 anatomy reference sheets (133 poses). Select by situation/mood or at random, verify visually. |
 | `museum-editorial` | Paste-ready prompts for GPT Image 2.5 that produce museum-grade editorial posters — minimalist 9:16 vertical layouts with archival layers, in Korean or English. Verifies subject facts before composing. |
 | `second-world` | Turn a photo into a "Second World" poster — vertical 3:4 canvas, upper half faithful photography, lower half ivory paper where one structure continues under new physical rules. |
+| `cat-doodle-overlay` | "고양이 손그림" — mixed-media art over a photorealistic photo: a giant white hand-drawn cat doodle playfully interacting with real architecture and landscapes; the photo stays faithful. |
 
 ## Video skills (`video/`)
 
@@ -43,6 +44,7 @@ the assistant applies the skill:
 
 - **휴대폰샷** → `photoreal-realness` (images)
 - **휴대폰으로 찍은 영상** → `phone-shot-video` (videos)
+- **고양이 손그림** → `cat-doodle-overlay` (images)
 
 ## Notes
 
