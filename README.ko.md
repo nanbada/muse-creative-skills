@@ -24,7 +24,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 | `pose-reference` | 캐릭터 이미지 생성용 포즈 선택 — 8개 해부학 포즈 시트(133개 포즈)에서 상황/분위기로 고르거나 랜덤 선택, 시각 검증. |
 | `museum-editorial` | GPT Image 2.5용 박물관급 에디토리얼 포스터 프롬프트 생성 — 미니멀 9:16 세로 레이아웃, 아카이브 레이어, 한국어/영어 지원. 작성 전 사실 검증. |
 | `second-world` | 사진을 "Second World" 포스터로 변환 — 세로 3:4 캔버스, 상반부는 충실한 사진, 하반부는 아이보리 종이 위에 사진 속 구조물 하나가 새로운 물리 법칙으로 이어짐. |
-| `cat-doodle-overlay` | "고양이 손그림" — 실사 사진 위에 거대한 흰색 손그림 고양이를 얹는 믹스드미디어: 사진은 그대로, 흰 선 고양이가 실제 건축물·풍경과 재치 있게 상호작용. |
+| `doodle-overlay` | "고양이 손그림" / "귀여운 아이 손그림" — 실사 사진 위에 거대한 흰색 손그림 캐릭터를 얹는 믹스드미디어: 사진은 그대로, 고양이는 장난·인물(아이)은 사물 재해석으로 실제 건축물·풍경과 상호작용. |
 
 ## 영상 스킬 (`video/`)
 
@@ -44,7 +44,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 
 - **휴대폰샷** → `photoreal-realness` (이미지)
 - **휴대폰으로 찍은 영상** → `phone-shot-video` (영상)
-- **고양이 손그림** → `cat-doodle-overlay` (이미지)
+- **고양이 손그림** / **귀여운 아이 손그림** → `doodle-overlay` (이미지)
 
 ## 참고
 
