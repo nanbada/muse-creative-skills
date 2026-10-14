@@ -1,6 +1,6 @@
 ---
 name: "doodle-overlay"
-description: "Turn a photorealistic photo into mixed-media editorial art: a giant white hand-drawn doodle character (cat, cute kid, animal, cartoon figure) playfully interacting with the real scene. Use for the 'reality reimagined by a doodle' look — '고양이 손그림' summons the cat, '귀여운 아이 손그림' summons a cute kid figure. The photo stays faithful, the white doodle carries the story."
+description: "Turn a photorealistic photo into mixed-media editorial art: giant white hand-drawn doodle characters plus overlay modules — handwritten text, doodle icons, postcard treatment, magazine cover lines, promo copy. '고양이 손그림' summons the cat, '귀여운 아이 손그림' summons a cute kid figure. The photo stays faithful, the white doodle carries the story."
 ---
 
 # Doodle Overlay
@@ -33,8 +33,9 @@ mountain road, Golden Gate Bridge.
 
 1. **Parse input.** Photo (required) + subject type (cat / figure;
    default to cat on "고양이 손그림", figure on "귀여운 아이 손그림")
-   + optional interaction hint, caption hint (cat only). Ask only about
-   genuinely ambiguous parameters.
+   + overlay modules (M2–M6 from `references/overlay-modules.md`, max 2
+   per image; M1 character is the default hero layer) + optional hints.
+   Ask only about genuinely ambiguous parameters.
 2. **Analyze the photo.** Find the single smartest interaction for the
    chosen subject — not "a character next to the photo" but one that
    could only exist *in this photo*. Cat → mischief table; figure →
@@ -42,11 +43,22 @@ mountain road, Golden Gate Bridge.
    Never repeat the same interaction across photos. One photo keeps
    ONE core visual idea.
 3. **Compose.** Fill `references/master-prompt.md` with subject type,
-   the chosen interaction, and optional caption (cat only).
+   the chosen interaction, and optional caption (cat only). Append the
+   selected module blocks from `references/overlay-modules.md`.
 4. **Output.**
    - Paste-ready prompt.
-   - Short note: the chosen subject, the interaction, and why it fits
-     this photo.
+   - Short note: the chosen subject, modules, the interaction, and why
+     they fit this photo.
+
+## Module triggers (Korean)
+
+- "고양이 손그림" → M1 cat
+- "귀여운 아이 손그림" / "손그림 인물" → M1 figure
+- "손글씨 문구만" / "문구만 추가" → M2 handwritten text
+- "아이콘 추가" / "아이콘 그려줘" → M3 doodle icons
+- "엽서 스타일" / "여행 엽서" → M4 postcard
+- "매거진 스타일" / "잡지 커버" → M5 editorial
+- "홍보 문구" / "광고 카피" → M6 promo copy
 
 ## Rules
 

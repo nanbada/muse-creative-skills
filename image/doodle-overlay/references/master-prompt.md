@@ -126,3 +126,10 @@ photo.
 | Mountain peak | pillow / cake / hat |
 | Lake / river | water in a cup / mirror / bathtub |
 | Roof | hat / gift wrap / blanket |
+
+## Overlay modules (optional)
+
+This master prompt is the M1 character layer. For additional layers
+(handwritten text, doodle icons, postcard, magazine cover lines, promo
+copy), append the matching module blocks from
+`references/overlay-modules.md` — max 2 modules per image.
