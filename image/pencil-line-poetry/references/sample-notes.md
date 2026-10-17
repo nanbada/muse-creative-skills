@@ -1,4 +1,4 @@
-# Sample notes — 18 reference images (analyzed 2026-10-17)
+# Sample notes — 32 reference images (analyzed 2026-10-17)
 
 Thumbnails fetched via hatch-zeitgeist (no linked IG account; captions
 unavailable). Visual analysis only.
@@ -53,7 +53,11 @@ unavailable). Visual analysis only.
 - Character: tiny, dot eyes or closed eyes, small gentle smile,
   simple dress, thread-like hair; sometimes a small dog companion.
 - World: nature at giant scale — dewdrops, petals, leaves, feathers,
-  stamens as landscape/architecture.
+  stamens as landscape/architecture. Dewdrops are a signature motif
+  (crystal-ball drops, fishing drops with a grass stem, sleeping
+  inside a dewy flower).
+- Doll hybrid: some pieces blend a soft 3D-doll girl with line-drawn
+  limbs — keep faces minimal even then.
 - Texture: fine pencil lines + photorealistic macro + watercolor
   wash + translucent layered petals + occasional paper-cut/thread.
 - Light: golden-hour backlight, sun flare, glowing edges; or
@@ -62,3 +66,38 @@ unavailable). Visual analysis only.
   gold/red glow on black (dark).
 - Composition: vertical, generous negative space, one quiet moment.
 - Mood: healing, poetic, whimsical, contemplative.
+
+---
+
+## Added 2026-10-17 — 14 more samples (19–32)
+
+- 19: Tiny girl on a leaf swing under a fern, dewdrops, reaching for
+  a giant drop; rippling water below. Mode A. Dewdrop motif.
+- 20: Boy reading under yellow blossoms; watercolor/pencil, huge
+  cream negative space, minimalist East Asian composition. Mode D.
+- 21: Translucent line woman from behind in a sunset field of blue
+  cornflowers, dress dissolving into light. Mode C.
+- 22: Cute illustrated girl hanging from a giant dandelion seed head
+  with dewdrops, floating seeds, blue sky. Mode A/D. Tiny world.
+- 23: Tiny girl sleeping inside a giant dewy daisy, pink petal as
+  blanket, shoes off. Mode A. Quintessential tiny world.
+- 24: Translucent line woman at sunset holding pampas grass, golden
+  field. Mode C.
+- 25: Tiny girl in raincoat "fishing" a dewdrop with a grass stem on
+  a giant dewy leaf. Mode A. Dewdrop motif.
+- 26: Doll-like girl with double buns walking in golden pampas grass
+  at sunset. Mode A/D borderline.
+- 27: Tiny line woman on a lily pad holding a giant calla lily stem,
+  dewdrops falling. Mode A/C. Minimal composition.
+- 28: Doll-like girl in hanbok reaching for persimmons, stone wall,
+  autumn. Mode D. Seasonal Korean motif.
+- 29: Doll-like dot-eyed girl reading on an autumn park bench,
+  line-drawn legs, falling maple leaves. Mode D/A.
+- 30: Minimal line girl, wind-blown thread hair, gradient orange
+  dress, huge peach negative space. Mode A minimal.
+- 31: Watercolor girl with topknot walking with an orange bag,
+  falling ginkgo leaves, blue line-drawn flowers, white space.
+  Mode D/A.
+- 32: Anime-style woman running through a flower field toward
+  mountains — presented as a physical photo print (shadow of the
+  hand holding it). Mode D + meta presentation.
