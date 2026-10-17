@@ -1,7 +1,4 @@
----
-name: "doodle-overlay"
-description: "Turn a photorealistic photo into mixed-media editorial art: giant white hand-drawn doodle characters plus overlay modules — handwritten text, doodle icons, postcard treatment, magazine cover lines, promo copy. '고양이 손그림' summons the cat, '귀여운 아이 손그림' summons a cute kid figure. The photo stays faithful, the white doodle carries the story."
----
+
 
 # Doodle Overlay
 
@@ -27,13 +24,15 @@ Two subject modes share one pipeline:
   titles, no logos, no watermarks.
 
 Reference samples (user-supplied): `examples/` — beach, Tokyo Tower,
-mountain road, Golden Gate Bridge.
+mountain road, Golden Gate Bridge (M1 character); book-wall stars,
+film-strip school uniform, classroom notes, bored classroom
+(M7 doodle scatter).
 
 ## Workflow
 
 1. **Parse input.** Photo (required) + subject type (cat / figure;
    default to cat on "고양이 손그림", figure on "귀여운 아이 손그림")
-   + overlay modules (M2–M6 from `references/overlay-modules.md`, max 2
+   + overlay modules (M2–M7 from `references/overlay-modules.md`, max 2
    per image; M1 character is the default hero layer) + optional hints.
    Ask only about genuinely ambiguous parameters.
 2. **Analyze the photo.** Find the single smartest interaction for the
@@ -59,6 +58,8 @@ mountain road, Golden Gate Bridge.
 - "엽서 스타일" / "여행 엽서" → M4 postcard
 - "매거진 스타일" / "잡지 커버" → M5 editorial
 - "홍보 문구" / "광고 카피" → M6 promo copy
+- "손그림 낙서" / "낙서 추가" / "낙서 흩뿌리기" → M7 doodle scatter
+  (stars, hearts, music notes, flowers, tiny cat faces, short phrases)
 
 ## Rules
 
@@ -84,3 +85,7 @@ mountain road, Golden Gate Bridge.
 - Mood: minimal, clean, humorous, designed, narrative, healing —
   editorial-illustration / international creative-ad quality.
   Clever, not merely cute.
+## Available connectors
+
+Use `muse.connector_search` to find the current connector docs before following
+recovered instructions.

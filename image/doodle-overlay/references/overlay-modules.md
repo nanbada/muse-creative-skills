@@ -6,7 +6,7 @@ image** — character + one text module is the sweet spot. One core visual
 idea per image.
 
 M1 (character: cat / figure) lives in `master-prompt.md` and is the default
-hero layer. The modules below are M2–M6. Each block is paste-ready English;
+hero layer. The modules below are M2–M7. Each block is paste-ready English;
 fill [BRACKETS].
 
 ---
@@ -93,11 +93,36 @@ the product or key subjects.
 
 ---
 
+## M7 — Hand-drawn doodle scatter
+
+Use when the user wants cute hand-drawn doodles scattered over the
+photo ("손그림 낙서" / "낙서 추가") — stars, hearts, music notes,
+flowers, tiny cat faces, squiggles — plus optional short handwritten
+phrases. No giant character, no info annotations; this is the light,
+playful layer that makes a photo feel like a decorated journal page.
+
+```
+Scatter [5–12] small white hand-drawn doodles across the photo in
+the same white line-art style: stars (4-point sparkles and 5-point
+outlines), small hearts, music notes, simple flowers, tiny cat
+faces, small spirals or squiggle arrows.
+Placement: loosely scattered through negative space — corners,
+sky, walls, floor — never covering faces or the main subject.
+Style: casual pen strokes, slightly transparent white, varied
+sizes, childlike and cute. [PHRASE OPTION: also add 1–3 short
+handwritten phrases in the same white style — e.g. "[PHRASE 1]" /
+"[PHRASE 2]" — placed in open space, casual handwriting, uneven
+baseline.]
+Film-strip option: if requested, present the photo as [N] film
+frames with black borders and "PHOTO 2000" side text, doodles
+scattered across the frames.
+```
+
 ## Combination rules
 
 - Max 2 modules per image. Recommended pairs: M1+M2 (character + phrase),
   M4 alone (postcard), M5 alone (editorial), M1+M3 (character + icons),
-  photo + M6 (promo).
+  M7 alone (doodle scatter), photo + M6 (promo).
 - M5/M6 use clean editorial typography (serif/sans), not the hand-drawn
   marker style — they are type overlays, not doodles.
 - Everything else (photo fidelity, no clutter, clever-not-cute) follows
