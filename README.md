@@ -25,6 +25,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 | `museum-editorial` | Paste-ready prompts for GPT Image 2.5 that produce museum-grade editorial posters — minimalist 9:16 vertical layouts with archival layers, in Korean or English. Verifies subject facts before composing. |
 | `second-world` | Turn a photo into a "Second World" poster — vertical 3:4 canvas, upper half faithful photography, lower half ivory paper where one structure continues under new physical rules. |
 | `doodle-overlay` | "고양이 손그림" / "귀여운 아이 손그림" / "손그림 낙서" — mixed-media art over a photorealistic photo: a giant white hand-drawn doodle character (cat or cute kid) interacting with real architecture and landscapes; the photo stays faithful. Overlay modules: handwritten text, doodle icons, doodle scatter, postcard, magazine cover lines, promo copy. |
+| `comic-production` | "만화 제작" — 6-stage pipeline for consistent multi-panel AI comics: character lock, batch rendering, validation gates, targeted retries, post-render lettering. Distills 7 open-source comic projects. |
 | `pencil-line-poetry` | "동양미 스타일" — tiny line-drawn characters (dot eyes, minimal features) living inside an oversized photorealistic natural world: dewdrops, petals, leaves, feathers as landscape. Fine lines + macro-nature mixed media, warm golden-hour light, poetic vertical compositions. Modes: tiny line world, glow lines, line over landscape, soft painterly. |
 
 ## Video skills (`video/`)
@@ -46,6 +47,7 @@ the assistant applies the skill:
 - **휴대폰샷** → `photoreal-realness` (images)
 - **휴대폰으로 찍은 영상** → `phone-shot-video` (videos)
 - **고양이 손그림** / **귀여운 아이 손그림** / **손그림 낙서** → `doodle-overlay` (images)
+- **만화 제작** → `comic-production` (images)
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (images)
 
 ## Notes
