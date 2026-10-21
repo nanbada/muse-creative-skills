@@ -1,6 +1,6 @@
 ---
 name: "photoreal-realness"
-description: "Add 'this person could really exist' realism to photorealistic AI image prompts: four-stage intentional-degradation blocks (snapshot philosophy, technical imperfection, facial asymmetry, human noise) that kill the over-polished AI-beauty look. Use when a generated photo must read as a real smartphone snap of a real person, not an AI model shoot. Korean trigger word: 휴대폰샷 — when the user says 휴대폰샷, apply this skill's blocks to make realistic everyday photos."
+description: "Add 'this person could really exist' realism to photorealistic AI image prompts: four-stage degradation blocks that kill the over-polished AI-beauty look, so a photo reads as a real smartphone snap. Korean trigger: 휴대폰샷. Not for video (use phone-shot-video)."
 ---
 
 # Photoreal Realness
@@ -20,7 +20,7 @@ Method: こけぞう (@gaget12090105) "崩す (break down), not 盛る (dress up
 ## Workflow
 
 1. **Character lock first**: fix the identity anchor (face, hair, outfit) before realism — this skill never changes identity, only believability.
-2. **Start with the quick trio** (blocks 1a + 4a + 4e, the post's recommended minimum): append in English after the scene/character description. For keyword-style or terse prompts, use the smartphone-snap one-liner from `references/realness-blocks.md` instead.
+2. **Start with the quick trio** (blocks 1a + 4a + 4e, the post's recommended minimum): append in English after the scene/character description. For keyword-style or terse prompts, use the smartphone-snap one-liner from `references/realness-blocks.md` instead. For an analog-film camera class, use the 35mm film one-liner (user keyword: 아날로그 35mm 필름) — never stack both one-liners.
 3. **Escalate by feel**: image too clean → add Step 2 blocks; face too "AI" → add Step 3; skin/hair uncanny → add Step 4. Never paste all 20 — more blocks ≠ more real.
 4. **Append the negative list** after the realism blocks.
 5. **Keep output class realistic**: smartphone-tier rendering; never promise flagship-sharp "shot on DSLR" output when the goal is a candid snap.
