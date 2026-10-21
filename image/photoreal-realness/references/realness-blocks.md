@@ -67,6 +67,19 @@ Combines freely with Step 3/4 blocks (face asymmetry, human noise) and the
 negative list. Overlaps with Step 2 (shake, mixed lighting) — duplicates
 are harmless, don't stack both mechanically.
 
+## Analog 35mm film one-liner (user keyword: 아날로그 35mm 필름, 2026-10-21)
+
+Paste-ready tag cluster for an analog-film camera class instead of a
+smartphone. Use when the user asks for the "아날로그 35mm 필름" look.
+
+```
+shot on 35mm analog film, natural film grain, soft halation on highlights, gently faded colors, warm analog tones, slightly imperfect exposure, candid documentary feel, no digital sharpening, no HDR, no post-processing color grading
+```
+
+Combines freely with Step 3/4 blocks (face asymmetry, human noise) and
+the negative list. Do not stack with the smartphone one-liner — pick one
+camera class per image.
+
 ## Tuning notes
 
 - Face still reads "AI"? → Step 3 first (3e + 3c), then 1c.
