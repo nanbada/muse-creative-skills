@@ -38,6 +38,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 | `place-video-prompter` | Paste-ready Korean video-production prompter for a real place (building, landmark, store, campus…) with strict realism guardrails. |
 | `ad-video-automation` | Automate short product ad videos (15–20s, 9:16): concept research, hero image product lock, block drafts with review gate, code overlay for text/graphics/BGM. |
 | `youtube-shorts-growth` | YouTube Shorts channel growth strategy: topic consistency + frame control, execution strategies, title/thumbnail patterns. |
+| `plant-growing` | "식물 키우기" — plant-growth timelapse production: locked-environment stage-frame prompt series (seed→ripe) → Gemini Omni 1.1 Flash frame interpolation, or a 10-second quick mode → handwritten keyword overlays + rolling life-tip text for mass middle-aged/elderly audiences → 3–6 stills → seed/fertilizer link monetization. Species packs included. |
 
 ## Trigger words (Korean)
 
@@ -49,6 +50,7 @@ the assistant applies the skill:
 - **고양이 손그림** / **귀여운 아이 손그림** / **손그림 낙서** → `doodle-overlay` (images)
 - **만화 제작** → `comic-production` (images)
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (images)
+- **식물 키우기** → `plant-growing` (videos)
 
 ## Notes
 

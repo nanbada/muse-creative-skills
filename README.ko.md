@@ -38,6 +38,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 | `place-video-prompter` | 실제 장소(건물, 랜드마크, 가게, 캠퍼스…)용 한국어 영상 제작 프롬프터 생성 — 엄격한 리얼리즘 가드레일 포함. |
 | `ad-video-automation` | 숏폼 상품 광고 영상(15–20초, 9:16) 자동화: 컨셉 리서치, 히어로 이미지 상품 락, 블록 단위 초안 + 리뷰 게이트, 텍스트/그래픽/BGM 코드 오버레이. |
 | `youtube-shorts-growth` | 유튜브 쇼츠 채널 성장 전략: 주제 일관성 + 프레임 컨트롤, 실행 전략, 제목/썸네일 패턴. |
+| `plant-growing` | "식물 키우기" — 식물 성장 타임랩스 제작 시스템: 환경 락 단계 프레임 프롬프트 시리즈(씨앗→완숙) → Gemini Omni 1.1 Flash 프레임 보간 또는 10초 퀵 모드 → 손글씨 키워드 + 생활꿀팁 롤링 텍스트로 중년·노년 대량 공략 → 스틸컷 3~6장 → 씨앗·비료 링크 수익화. 종별 팩 포함. |
 
 ## 트리거 워드 (한국어)
 
@@ -49,6 +50,7 @@ git clone https://github.com/nanbada/muse-creative-skills.git
 - **고양이 손그림** / **귀여운 아이 손그림** / **손그림 낙서** → `doodle-overlay` (이미지)
 - **만화 제작** → `comic-production` (이미지)
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (이미지)
+- **식물 키우기** → `plant-growing` (영상)
 
 ## 참고
 
