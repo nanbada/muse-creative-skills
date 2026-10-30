@@ -42,6 +42,7 @@ New to Muse? Install in priority order — see
 |---|---|
 | `photoreal-realness` | "휴대폰샷" — intentional-degradation prompt blocks that make AI photos read as real smartphone snaps of real people. Four stages: snapshot philosophy, technical imperfection, facial asymmetry, human noise. |
 | `pose-reference` | Pick a pose for character image generation from 8 anatomy reference sheets (133 poses). Select by situation/mood or at random, verify visually. |
+| `character-consistency` | Keep one person's face, hair, and body consistent across image and video generation: face-photo anchor + fixed-block verbatim + role-labeled references + separate face/full sheets + faceless mannequin body standard + relative-edit ladder with auto-repeat + pixel measurement. First resort for any person generation. |
 | `museum-editorial` | Paste-ready prompts for GPT Image 2.5 that produce museum-grade editorial posters — minimalist 9:16 vertical layouts with archival layers, in Korean or English. Verifies subject facts before composing. |
 | `second-world` | Turn a photo into a "Second World" poster — vertical 3:4 canvas, upper half faithful photography, lower half ivory paper where one structure continues under new physical rules. |
 | `doodle-overlay` | "고양이 손그림" / "귀여운 아이 손그림" / "손그림 낙서" — mixed-media art over a photorealistic photo: a giant white hand-drawn doodle character (cat or cute kid) interacting with real architecture and landscapes; the photo stays faithful. Overlay modules: handwritten text, doodle icons, doodle scatter, postcard, magazine cover lines, promo copy. |
