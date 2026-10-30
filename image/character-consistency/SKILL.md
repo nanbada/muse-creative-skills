@@ -31,9 +31,8 @@ any point to accept all remaining defaults.
 2. Character basics (5–8 visual anchors): face shape, eyes, nose,
    lips, hair (style + color + part), skin tone, build. If a photo
    is supplied, Muse reads these from the photo; the user only
-   corrects what is wrong. Body type and height use presets (see
-   Q3): body — glamour / slim / average / custom; height — 165 /
-   170 / 173 / custom (cm).
+   corrects what is wrong. Body type uses presets (see Q3):
+   glamour / slim / average / custom.
 3. Proportion target — default: 7.5–8 heads, legs more than half
    of total height. The user may set other numbers or keep the
    default.
@@ -53,13 +52,9 @@ any point to accept all remaining defaults.
   color / part, face shape, and build in one short round.)
 - Q3: "Body type — pick one: glamour (defined bust, narrow waist,
   wide hips) / slim (straight, lean silhouette) / average
-  (balanced, natural) / custom (describe it in your own words).
-  Height — pick one: 165 / 170 / 173 / custom (cm)." (If a photo
-  is supplied, Muse suggests the closest presets from the photo;
-  the user confirms or changes them. Height presets set the
-  description wording and the sheet's stated height — the render
-  shows relative proportions, not literal centimeters; the
-  head-count in §11 is what verifies the result.)
+  (balanced, natural) / custom (describe it in your own words)."
+  (If a photo is supplied, Muse suggests the closest preset from
+  the photo; the user confirms or changes it.)
 - Q4: "Proportion target: default is 7.5–8 heads with legs more
   than half of height. Keep the default, or set your own numbers?"
 - Q5: "Default outfit for the composite is neutral full-coverage
@@ -79,7 +74,6 @@ Hair: style / color / part
 Face: shape / eyes / nose / lips
 Skin: ...
 Body type: glamour / slim / average / custom: ...
-Height: 165 / 170 / 173 / custom (cm): ...
 Proportion target: 7.5–8 heads (default) / other: ...
 Default outfit: neutral full-coverage (default) / other: ...
 Goal: stills / video
@@ -115,11 +109,7 @@ Goal: stills / video
   full-body sheet, each its OWN image. NEVER a one-image 3-cut
   sheet: the close-up face inflates the full-body scale. A 3-cut
   example sheet's headless full-body panel carries no face scale
-  at all. Optional extension (only if 3/4-angle scenes measure
-  below target): add a 3/4 upper-body sheet and a 3/4 full-body
-  sheet to the pack (same anchor face, same outfit family) before
-  retrying. Do not add them by default — the base pack transfers
-  on its own.
+  at all.
 
 ## 5. Body standard (separate, faceless)
 
