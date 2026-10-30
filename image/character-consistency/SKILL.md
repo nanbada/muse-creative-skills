@@ -31,7 +31,9 @@ any point to accept all remaining defaults.
 2. Character basics (5–8 visual anchors): face shape, eyes, nose,
    lips, hair (style + color + part), skin tone, build. If a photo
    is supplied, Muse reads these from the photo; the user only
-   corrects what is wrong.
+   corrects what is wrong. Body type and height use presets (see
+   Q3): body — glamour / slim / average / custom; height — 165 /
+   170 / 173 / custom (cm).
 3. Proportion target — default: 7.5–8 heads, legs more than half
    of total height. The user may set other numbers or keep the
    default.
@@ -49,15 +51,24 @@ any point to accept all remaining defaults.
 - Q2: "From the photo I read: [list the anchors]. Correct anything
   that's wrong, or say 'correct'." (No photo: ask hair style /
   color / part, face shape, and build in one short round.)
-- Q3: "Proportion target: default is 7.5–8 heads with legs more
+- Q3: "Body type — pick one: glamour (defined bust, narrow waist,
+  wide hips) / slim (straight, lean silhouette) / average
+  (balanced, natural) / custom (describe it in your own words).
+  Height — pick one: 165 / 170 / 173 / custom (cm)." (If a photo
+  is supplied, Muse suggests the closest presets from the photo;
+  the user confirms or changes them. Height presets set the
+  description wording and the sheet's stated height — the render
+  shows relative proportions, not literal centimeters; the
+  head-count in §11 is what verifies the result.)
+- Q4: "Proportion target: default is 7.5–8 heads with legs more
   than half of height. Keep the default, or set your own numbers?"
-- Q4: "Default outfit for the composite is neutral full-coverage
+- Q5: "Default outfit for the composite is neutral full-coverage
   clothing. Any outfit you want as the default instead?"
-- Q5: "Ready to build: face sheet + upper-body sheet + faceless
+- Q6: "Ready to build: face sheet + upper-body sheet + faceless
   body standard + composite. Shall I start?"
 - Rules: one question at a time; every question shows its
   default; "defaults" accepts all remaining defaults; no
-  generation before the Q5 confirmation.
+  generation before the Q6 confirmation.
 
 ### Fill-in template (if the user prefers to give everything at once)
 
@@ -67,7 +78,8 @@ Face photo: [attached, or "generate one"]
 Hair: style / color / part
 Face: shape / eyes / nose / lips
 Skin: ...
-Build: ...
+Body type: glamour / slim / average / custom: ...
+Height: 165 / 170 / 173 / custom (cm): ...
 Proportion target: 7.5–8 heads (default) / other: ...
 Default outfit: neutral full-coverage (default) / other: ...
 Goal: stills / video
@@ -103,7 +115,11 @@ Goal: stills / video
   full-body sheet, each its OWN image. NEVER a one-image 3-cut
   sheet: the close-up face inflates the full-body scale. A 3-cut
   example sheet's headless full-body panel carries no face scale
-  at all.
+  at all. Optional extension (only if 3/4-angle scenes measure
+  below target): add a 3/4 upper-body sheet and a 3/4 full-body
+  sheet to the pack (same anchor face, same outfit family) before
+  retrying. Do not add them by default — the base pack transfers
+  on its own.
 
 ## 5. Body standard (separate, faceless)
 
