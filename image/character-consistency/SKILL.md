@@ -1,6 +1,6 @@
 ---
 name: "character-consistency"
-description: "Keep one person's face, hair, and body consistent across AI image and video generation: face-photo anchor + fixed-block verbatim + role-labeled references + separate face/full sheets + faceless mannequin body standard + relative-edit ladder with auto-repeat + pixel measurement. First resort for any person generation. Not pose selection — for poses, use pose-reference."
+description: "Keep one person's face, hair, and body consistent across AI image and video generation: face-photo anchor + fixed-block verbatim + role-labeled references + separate face/full sheets + faceless mannequin body standard + relative-edit ladder with auto-repeat + pixel measurement. First resort for any person generation. Includes a beginner start-up section: input checklist + user-interview format. Not pose selection — for poses, use pose-reference."
 ---
 
 # Character Consistency — Person Method
@@ -9,6 +9,69 @@ Keep the SAME person across generated images and video: same face,
 same hair, same body. The method is anchor-first, measurement-gated,
 and correction-laddered. It is the first resort for any person
 generation — apply it before other approaches.
+
+Beginners: start at §0 — it lists every input and gives the
+interview script. Do not skip it.
+
+## 0. Start here — inputs + interview (beginner template)
+
+Do NOT generate anything until the inputs below are confirmed.
+Muse interviews the user first; the user can answer "defaults" at
+any point to accept all remaining defaults.
+
+### What Muse needs (checklist)
+
+1. Face photo (anchor) — REQUIRED for face consistency. One
+   clear photo: face visible, good light, no sunglasses or mask,
+   hair visible. Use only a photo you own or have the right to
+   use; never copy a real person's identity without consent.
+   No photo? Say "generate one": Muse creates a first portrait
+   from your description, you approve it, and that approved image
+   becomes the anchor.
+2. Character basics (5–8 visual anchors): face shape, eyes, nose,
+   lips, hair (style + color + part), skin tone, build. If a photo
+   is supplied, Muse reads these from the photo; the user only
+   corrects what is wrong.
+3. Proportion target — default: 7.5–8 heads, legs more than half
+   of total height. The user may set other numbers or keep the
+   default.
+4. Default outfit (optional) — default: neutral full-coverage
+   clothing for the body-standard composite. Scene outfits are
+   chosen per request.
+5. Goal (optional) — stills only, or video (video always runs
+   still-first, see §12).
+
+### Interview format (Muse asks, one question at a time)
+
+- Q1: "Please upload one clear face photo to use as the anchor.
+  If you don't have one, say 'generate one' and I'll create a
+  first portrait from your description for your approval."
+- Q2: "From the photo I read: [list the anchors]. Correct anything
+  that's wrong, or say 'correct'." (No photo: ask hair style /
+  color / part, face shape, and build in one short round.)
+- Q3: "Proportion target: default is 7.5–8 heads with legs more
+  than half of height. Keep the default, or set your own numbers?"
+- Q4: "Default outfit for the composite is neutral full-coverage
+  clothing. Any outfit you want as the default instead?"
+- Q5: "Ready to build: face sheet + upper-body sheet + faceless
+  body standard + composite. Shall I start?"
+- Rules: one question at a time; every question shows its
+  default; "defaults" accepts all remaining defaults; no
+  generation before the Q5 confirmation.
+
+### Fill-in template (if the user prefers to give everything at once)
+
+```
+Character name: ...
+Face photo: [attached, or "generate one"]
+Hair: style / color / part
+Face: shape / eyes / nose / lips
+Skin: ...
+Build: ...
+Proportion target: 7.5–8 heads (default) / other: ...
+Default outfit: neutral full-coverage (default) / other: ...
+Goal: stills / video
+```
 
 ## 1. Anchor + fixed block verbatim
 
