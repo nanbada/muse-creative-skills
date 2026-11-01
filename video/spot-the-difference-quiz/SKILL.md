@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.1 — updated 2026-11-01: random BGM per episode, no consecutive repeat.
 > v1.0.0 — public release 2026-11-01. Sanitized for public use from the
 > local v0.4.2 standard: channel-specific paths, channel IDs, and episode
 > history are generalized; the production rules are unchanged. Where this
@@ -112,6 +113,12 @@ skip the verification steps.
   loop to avoid any licensing or other-channel asset reuse. If you use a stock track instead, verify the actual downloaded file
   and its license before publishing. Never report an unverified download
   as a file.
+- **BGM selection (per episode, standing rule):** keep a library of
+  several original loops in different keys, tempos, and rhythms, and
+  pick ONE at random for each episode, excluding the immediately
+  previous episode's track — no two consecutive episodes share a BGM.
+  Record the chosen track in the episode tracker. A single fixed loop
+  for every episode is superseded.
 - **Art style:** anime watercolor, hand-painted with soft shading — and
   other watercolor animation styles may vary per episode (Ghibli-style,
   pastel watercolor, sketch watercolor). Flat vector with thick black
