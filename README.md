@@ -61,6 +61,7 @@ New to Muse? Install in priority order — see
 | `youtube-shorts-growth` | YouTube Shorts channel growth strategy: topic consistency + frame control, execution strategies, title/thumbnail patterns. |
 | `plant-growing` | "식물 키우기" — plant-growth timelapse production: locked-environment stage-frame prompt series (seed→ripe) → Gemini Omni 1.1 Flash frame interpolation, or a 10-second quick mode → handwritten keyword overlays + rolling life-tip text for mass middle-aged/elderly audiences → 3–6 stills → seed/fertilizer link monetization. Species packs included. |
 | `fashion-motion-video` | "옷입기 영상" / "패션 동작 영상" — turn a fashion photo + a shop detail-page link into a short fashion video: mannequin display image → 20s hourglass character conversion → start-frame approval → doll-mask face cover (88% size) → motion video with core-only white handwriting (product name, price, features) and background music only. New-product texture rule: express the fabric as brand-new, never washed/worn. Post text is minimal: 1–2 lines of vibe/situation + product name, fabric, colour + detail-page link. |
+| `spot-the-difference-quiz` | "틀린그림찾기" — build a complete YouTube-optimized spot-the-difference quiz package: problem card, answer cards, Shorts video with the answer revealed inside (Medium 30s / Hard 28s), long-form problem set, captions, episode tracker. Medium = 3 differences, Hard = 5, Easy excluded. Title-end countdown badge, no answer sound effect, BGM bed only, senior-visible difference targets. |
 
 ## Productivity skills (`productivity/`)
 
@@ -108,6 +109,7 @@ the assistant applies the skill:
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (images)
 - **식물 키우기** → `plant-growing` (videos)
 - **옷입기 영상** / **패션 동작 영상** → `fashion-motion-video` (videos)
+- **틀린그림찾기** → `spot-the-difference-quiz` (videos)
 
 ## Notes
 
