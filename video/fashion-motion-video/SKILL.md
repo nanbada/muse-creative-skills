@@ -20,6 +20,26 @@ If either is missing, ask for it. Never invent a product name, price,
 or feature. Fetch the detail page first and quote what it actually
 says, with the fetch date, because prices can change.
 
+## Stage interview cards (2026-11-03, mandatory management method)
+
+The skill is managed stage by stage with user interview cards.
+Full card set: `references/interview-cards.md`. Each stage ends
+with a card — Show / Ask / Lock / Gate — and the next stage does
+not start until the user answers or approves that card, unless
+the user has already told Muse to proceed through the whole job.
+
+- Two cards are always blocking, even in proceed-through mode:
+  Card 1A Texture Lock and Card 3C Start Frame. No mannequin is
+  generated before the texture card is locked, and no video is
+  generated from an unapproved start frame.
+- A locked item is not re-decided later. A card that fails stops
+  that card; the job does not guess and move on, and a failed
+  texture is never carried forward hoping the video zoom scene
+  will rescue it.
+- Interview cards are the management record for the job: what
+  was shown, what the user chose, and what was locked. Keep that
+  record in the job notes, not just in chat.
+
 ## Step 1 — Analyse the detail page
 
 - Identify the exact outfit item(s) in the photo and match them to the
@@ -45,6 +65,64 @@ says, with the fetch date, because prices can change.
   generate anything. See `references/post-template.md` for the split
   and the post-text layout.
 
+## Step 1A — Texture Lock (2026-11-01, mandatory, the fix for
+the worn/washed look)
+
+Texture is locked BEFORE any image is generated, and the same lock
+is carried through every stage. The worn look happened because
+early stages guessed texture from a model selfie alone, while the
+detail-page close-up was only used later, if at all. In card
+terms this is Card 1A, a blocking gate: see
+`references/interview-cards.md`.
+
+1. **Text lock.** From the detail page, extract the material
+   descriptors verbatim in substance: processing (e.g. brushed /
+   shaggy), gauge, hand (thick, soft, voluminous, light), surface
+   (e.g. down-like fuzz obscuring the knit loops, matte, no crisp
+   rib or stitch definition), and colour. Record them in the job
+   notes. Never invent a fibre percentage the page does not show.
+2. **Image lock — select, do not guess.** Scroll the detail
+   section in order and select texture close-ups by these
+   criteria, in this order of preference:
+   - Fabric fills the frame (flat surface, folded stack of
+     colours, or a hand pressed into the fabric).
+   - A texture label on the image (e.g. "Soft Texture").
+   - NOT a model full shot, and NOT a model torso shot alone —
+     those show fit, not fibre.
+   Record each selected close-up by its position in the scroll
+   order and by what it shows (colour, fibre length, fuzz
+   density, stitch visibility), even when the file itself cannot
+   be downloaded — see the limitation below.
+3. **File lock, when a file exists.** If a texture close-up file
+   is available — user upload, or a screenshot/save from the
+   detail page — pass that file as a reference image in EVERY
+   image stage: mannequin, character conversion, mask/start
+   frame. This is proven: in the 2026-10-31 Whisper knit job,
+   texture only improved once the user-supplied close-ups were
+   passed as references. Never pass the texture file only at the
+   video zoom stage.
+4. **Description lock, when no file exists.** If no close-up file
+   is available, do not pretend one is attached. Put the written
+   texture lock from (1) and (2) verbatim into every prompt, and
+   add the forbidden list: faded, matted, flattened, pilled,
+   washed-out, worn-looking, thin, or crisp-ribbed fabric when
+   the real texture is fuzzy.
+5. **Limitation, verified 2026-11-01 (ABLY mobile).** The browser
+   cannot reliably download detail stills from an ABLY mobile
+   detail page: the close-ups appear as rendered visuals with no
+   image element reference, link, or direct URL, so there is no
+   download target. This is a page-exposure limitation, not a
+   bot block or sign-in wall. Therefore the automatic path is
+   (1) + (2) + (4), and the file path (3) needs a user upload or
+   a user screenshot/save of the close-up. When the written lock
+   alone still reads as worn, ask for that upload instead of
+   regenerating the same guessed texture again.
+6. **Video lock.** The video takes only the start frame as its
+   image, so the start frame's texture IS the video's texture.
+   The video prompt must carry the same texture lock, and its
+   zoom scene must be described as a close-up of that same
+   texture — never as a new texture invented at zoom time.
+
 ## Step 2 — Character (body locked, face free)
 
 - Early-20s woman, hourglass silhouette: bust volume, slim waist,
@@ -69,7 +147,9 @@ says, with the fetch date, because prices can change.
 A professional 3D display image first: one adult female model,
 vertical composition, entire body fully visible, wearing the
 detail-page outfit. This is the safe starting point when a direct
-video request is refused (see Refusal fallback).
+video request is refused (see Refusal fallback). Pass the Step 1A
+texture reference (file or written lock) in this prompt — do not
+leave texture to be guessed from the fashion photo alone.
 
 ### B. Character conversion
 
@@ -81,6 +161,9 @@ Convert the mannequin image to the Step 2 character:
   randomly chosen unless the user names one. This replaces the
   earlier plain-background final version.
 - Keep the outfit unchanged. Add matching shoes.
+  Carry the Step 1A texture reference forward unchanged — a
+  character conversion that loses the texture is a failed stage,
+  even if the silhouette is right.
 - Give the face a 20s-woman feel.
 - Put all hair behind the shoulders.
 
@@ -131,6 +214,24 @@ with the user before making the video, unless the user has already
 told you to proceed. Never overwrite an original; every stage gets
 its own file name.
 
+### C1. Start frame must already show the full-body + handwriting
+composition (2026-10-31, mandatory, all jobs)
+
+The start frame is not a bare model shot. It must already contain
+the composition that appears in the video at a full-body moment
+(for the 2026-10-31 ribbon-wrap job: the 7-second full-body shot):
+
+- Full body, entire outfit visible, same framing as that video
+  full-body moment.
+- Core handwriting already on the frame, in the side margins:
+  product name, price, features only, white handwriting, never
+  covering the model or the outfit.
+- Doll mask already applied (Step D), so the start frame is the
+  exact first frame of the video, not a pre-mask draft.
+- If the video's full-body + handwriting composition changes,
+  update the start frame to match it — do not leave the start
+  frame as a different composition.
+
 ### D. Doll mask — last step before video
 
 Cover the face with the doll mask the user supplied (2026-10-30:
@@ -141,14 +242,16 @@ a white cat-face doll mask, called "나비인형" by the user):
   revision 1) and the 70% size (2026-10-30). Centre it on the eyes,
   nose, and mouth.
 - Hair behind the shoulders stays visible at the sides.
-- The mask is applied just before video production, not earlier in
-  the pipeline, so earlier stages can still be checked without it.
+- The mask is applied to create the start frame (Step C1), just
+  before video production, not earlier in the pipeline, so
+  earlier stages can still be checked without it.
 
 ### D1. New-product texture (2026-10-31, mandatory)
 
 The outfit in the video must read as a brand-new product the
 customer wants to buy, never as worn several times or washed
-dozens of times:
+dozens of times. This section is now executed through Step 1A
+Texture Lock, not by a single prompt line:
 
 - Express the texture to fit the material: for knit, fluffy,
   voluminous, soft (뽀송뽀송), crisp shaggy hair, vivid colour —
@@ -156,6 +259,10 @@ dozens of times:
   when one exists. When the close-up reads cloud-like and soft,
   lean into a cotton-candy softness (2026-10-31, Whisper knit),
   not a flat or matted finish.
+- The texture reference (file or written lock) must be present
+  in mannequin, character, mask/start frame, AND video prompts.
+  A texture that appears only in the video zoom scene does not
+  fix the other scenes.
 - Forbid, in every prompt: faded, matted, flattened, pilled,
   washed-out, or worn-looking fabric.
 - If a generated frame reads as washed/worn, regenerate the
@@ -196,8 +303,11 @@ handwriting directly on the video, side margins only):
   overloading the screen.
 - Duration: keep the handwriting visible to the end so the viewer
   has time to read it, or let it disappear briefly in the middle
-  and reappear. Default to keeping it to the end; use the
-  disappear-and-reappear variant only when the user asks for it.
+  and reappear. Both are acceptable (2026-10-31: disappearing in
+  the middle and reappearing is allowed). In either case the
+  handwriting must be present on the first frame and again at
+  every full-body moment, so the start frame and the video's
+  full-body shot match.
 - If Korean handwriting comes out garbled, simplify to the core
   3 items and regenerate the handwriting layer. Do not add extra
   explanatory text to compensate.
