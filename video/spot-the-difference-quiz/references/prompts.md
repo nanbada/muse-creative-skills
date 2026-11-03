@@ -23,7 +23,7 @@ foreground or midground — broad-area color changes, large objects, never
 a tiny, blurry, far-landscape detail and never a thin-lined or
 small-pattern target.
 Every planned target must stay clearly visible once circled, including to
-senior viewers (SERIES-SPEC v1.9 senior visibility rule).
+senior viewers(senior visibility rule).
 ```
 
 ## B version edit prompt
