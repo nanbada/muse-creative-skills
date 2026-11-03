@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.2 — updated 2026-11-03: simplified art style + large difference targets; one owned acoustic BGM (looped long-form, random sections for Shorts).
 > v1.0.1 — updated 2026-11-01: random BGM per episode, no consecutive repeat.
 > v1.0.0 — public release 2026-11-01. Sanitized for public use from the
 > local v0.4.2 standard: channel-specific paths, channel IDs, and episode
@@ -113,18 +114,22 @@ skip the verification steps.
   loop to avoid any licensing or other-channel asset reuse. If you use a stock track instead, verify the actual downloaded file
   and its license before publishing. Never report an unverified download
   as a file.
-- **BGM selection (per episode, standing rule):** keep a library of
-  several original loops in different keys, tempos, and rhythms, and
-  pick ONE at random for each episode, excluding the immediately
-  previous episode's track — no two consecutive episodes share a BGM.
-  Record the chosen track in the episode tracker. A single fixed loop
-  for every episode is superseded.
+- **BGM selection (per episode, standing rule):** use one good owned
+  acoustic track as the standard BGM. Long-form loops the full track
+  to the video length; Shorts use one randomly picked section of the
+  same track per episode, excluding the immediately previous episode's
+  section. Record the chosen track/section in the episode tracker.
+  A single fixed synthesized loop for every episode is superseded.
 - **Art style:** anime watercolor, hand-painted with soft shading — and
   other watercolor animation styles may vary per episode (Ghibli-style,
   pastel watercolor, sketch watercolor). Flat vector with thick black
   outlines is excluded as the default: it looks too similar to existing
-  spot-the-difference content. The scene is detailed enough that scanning
-  takes time, but never so crowded that a difference is hidden by clutter.
+  spot-the-difference content. Keep the linework BOLD AND SIMPLE: no
+  dense, finely detailed line rendering. Shapes read at a glance, with
+  generous whitespace — a viewer must be able to scan the scene in
+  seconds, especially for Shorts. Difference targets are LARGE:
+  broad-area color changes and large objects, never thin lines, small
+  patterns, or blurry textures.
   Do not put people in the scene unless the scene genuinely needs them.
 - **Safe zones (YouTube Shorts UI):** keep all text, difference marks,
   and key elements out of the bottom 340 pixels and, for Shorts, out of
