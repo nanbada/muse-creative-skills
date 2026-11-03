@@ -179,16 +179,30 @@ skip the verification steps.
 
 ## Production steps
 
-1. Pick a topic. Item priority: (1) iconic world film/drama scenes, only
-   at a copyright-safe level; (2) world landmarks; (3) fun everyday
-   scenes. Copyright rules: never copy original stills, characters,
+1. Pick a topic. Item categories (Phase 1 = random each episode,
+   avoiding the immediately previous episode's category, and record the
+   category in the tracker to compare audience reaction): world
+   landmarks; famous-painting parodies (generalized homage only —
+   borrow mood/composition, never copy the original work); famous-photo
+   parodies (iconic composition generalized, no identifiable real
+   people — faceless/generic figures or silhouettes); fun still-cut
+   scenes converted to illustration (iconic moments re-imagined, never
+   the original still, character, distinctive costume, or logo); flower
+   series (bouquets, flower shops, gardens — a recurring,
+   sponsor-friendly motif); fun everyday scenes. Phase 2 (planned, NOT
+   active until ordered): run one theme for 1–2 weeks, then move to the
+   next theme. Copyright rules: never copy original stills, characters,
    distinctive costumes, logos, or music; reproduce only a generalized
    composition/situation as an original illustration; never reproduce a
    specific character's distinctive appearance; if a scene cannot be made
    safely, substitute the next-priority item. Never repeat a topic
    already posted in the same series — check the episode tracker
    (`references/episode-tracker.md`) first. Number the series so viewers
-   can collect episodes.
+   can collect episodes. Ad-friendly staging: never show a logo, brand,
+   or trademark in the picture, title, description, or tags; depict
+   products generically (unbranded silhouettes, plain packaging, blank
+   signboards) and keep natural ad slots; never invent or imply a real
+   brand.
 2. Generate the base illustration with the prompt in
    `references/prompts.md`. Check that the scene is complete and detailed
    before moving on.
