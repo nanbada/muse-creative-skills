@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.3 — updated 2026-11-03: expanded item categories, ad-friendly staging, two-phase operation.
 > v1.0.2 — updated 2026-11-03: simplified art style + large difference targets; one owned acoustic BGM (looped long-form, random sections for Shorts).
 > v1.0.1 — updated 2026-11-01: random BGM per episode, no consecutive repeat.
 > v1.0.0 — public release 2026-11-01. Sanitized for public use from the

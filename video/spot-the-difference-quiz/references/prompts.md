@@ -46,3 +46,15 @@ raise difficulty.
 Kitchen: curtains yellow to green, red kettle gone, oranges 4 to 3. Notice each
 mechanism appears once, each target is large, and the count change is easy to
 verify.
+
+## Parody and still-cut scenes (v1.16)
+- Famous painting / photo parody: describe the MOOD and generalized
+  composition ("swirling night sky over a quiet village",
+  "sunflowers in a vase on a wooden table"), never the original work's
+  title, artist, or distinctive details. No signature, no copied
+  brushwork, no identifiable real person — faceless or generic figures.
+- Still-cut to illustration: stage the moment as a fresh illustration
+  ("two friends laughing on a rooftop at sunset, movie-still framing"),
+  never "recreate" a specific film frame, character, costume, or logo.
+- Ad-friendly staging: leave blank signboards, plain packaging, and
+  unbranded props in the scene; never render a logo or brand name.
