@@ -48,6 +48,7 @@ New to Muse? Install in priority order — see
 | `doodle-overlay` | "고양이 손그림" / "귀여운 아이 손그림" / "손그림 낙서" — mixed-media art over a photorealistic photo: a giant white hand-drawn doodle character (cat or cute kid) interacting with real architecture and landscapes; the photo stays faithful. Overlay modules: handwritten text, doodle icons, doodle scatter, postcard, magazine cover lines, promo copy. |
 | `comic-production` | "만화 제작" — 6-stage pipeline for consistent multi-panel AI comics: character lock, batch rendering, validation gates, targeted retries, post-render lettering. Distills 7 open-source comic projects. |
 | `pencil-line-poetry` | "동양미 스타일" — tiny line-drawn characters (dot eyes, minimal features) living inside an oversized photorealistic natural world: dewdrops, petals, leaves, feathers as landscape. Fine lines + macro-nature mixed media, warm golden-hour light, poetic vertical compositions. Modes: tiny line world, glow lines, line over landscape, soft painterly. |
+| `watercolor-studio` | "수채화" — turn a text prompt or a reference photo into an expressive watercolor painting: floral-fashion fantasy (translucent flower dresses, fine pen line), European storybook atmosphere (cozy cafes, rainy cobblestones, warm lantern light), botanical, loose wash, ink-and-wash. |
 
 ## Video skills (`video/`)
 
@@ -107,6 +108,7 @@ the assistant applies the skill:
 - **고양이 손그림** / **귀여운 아이 손그림** / **손그림 낙서** → `doodle-overlay` (images)
 - **만화 제작** → `comic-production` (images)
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (images)
+- **수채화** → `watercolor-studio` (images)
 - **식물 키우기** → `plant-growing` (videos)
 - **옷입기 영상** / **패션 동작 영상** → `fashion-motion-video` (videos)
 - **틀린그림찾기** → `spot-the-difference-quiz` (videos)
