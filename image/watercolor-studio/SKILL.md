@@ -75,12 +75,16 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   three-quarter view, minimal features — never a large detailed front face.
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
-- **Floral-fashion DNA check (person first).** The full figure must read
-  head to toe: face, torso, both legs, floral high heels all visible;
-  flowers never cover the face, torso, or legs. Fitted bodice, skirt of
-  translucent layered wash with modest blooms as accents — largest single
-  bloom at most about head size, skirt wash may spread but blooms stay
-  accents; slender elegant figure with matching floral high heels and a
+- **Floral-fashion DNA check (person first, tiered coverage).** The
+  figure must read as a person: face and fitted upper torso always clear,
+  flowers never covering them. Below the waist follows the dress style:
+  legs and floral high heels visible for short or tea-length skirts, but
+  legs and shoes may be covered when flowers are the dress itself (long
+  floral gown, cascading bouquet skirt) — that coverage is the garment,
+  not a failure. Fitted bodice, skirt of translucent layered wash with
+  modest blooms as accents — largest single bloom at most about head
+  size, skirt wash may spread but blooms stay accents; slender elegant
+  figure with matching floral high heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
   cream or pale pink ground with generous empty negative space; fine
   delicate lines, thin swirling flourishes used sparingly, discrete round
@@ -90,7 +94,8 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   composition, never crowd the frame (line and space only — never the
   tiny-character / giant-nature scale play). A soft muted dress-shape
   with a detailed front face fails this check, and so does any flower
-  mass hiding the figure, any running drip, downward paint streak, or
+  mass hiding the face, the upper torso, or the whole posture, any
+  running drip, downward paint streak, or
   muddy blurred wash — even soft passages stay clean (standing
   clean-transparency rule, 2026-11-05; person-first scale rule,
   2026-11-05, superseding "blooms larger than the torso").
