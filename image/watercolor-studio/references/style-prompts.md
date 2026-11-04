@@ -18,31 +18,59 @@ luminous tones; airy light background so the bleeding shines.
 ## 1b. Floral-fashion, vivid reference (attached refs)
 
 Use when the user wants the vivid attached-reference look instead of the
-soft pastel default.
+soft pastel default. Person first, flowers second — the concept is
+watercolor flowers, but the figure carries the picture.
 
-`slender fashion illustration, elongated figure, profile or downcast
-three-quarter pose, small delicate face with minimal features, fitted
-bodice with skirt exploding into oversized translucent flowers, blooms
-larger than the torso, vivid saturated flower colors on a pale cream or
-pale pink luminous ground, matching floral high heels, flower crown,
-thin swirling calligraphic line flourishes, small round pigment droplets
-as beads, never running drips or downward streaks, soft watercolor
-blooming kept clean and controlled, transparent layered petals with
-crisp clean edges, vivid yet emotionally detailed rendering, fine petal
-veins and layered translucency, wet-on-wet transparency`
+`slender elegant fashion illustration, full figure head to toe clearly
+visible, person first, profile or downcast three-quarter pose, small
+delicate face with minimal features, fitted bodice, skirt of
+translucent layered watercolor wash with modest flowers as accents,
+flowers smaller than the head, never covering the face, torso, or legs,
+body line and both legs and floral high heels fully readable, flower
+crown of small blossoms, vivid yet restrained flower colors on a pale
+cream or pale pink luminous ground with generous empty negative space,
+fine delicate ink lines, thin swirling calligraphic flourishes used
+sparingly, small round pigment droplets as beads, never running drips
+or downward streaks, soft watercolor blooming kept clean and
+controlled, transparent layered petals with crisp clean edges, elegant
+quiet grace, East Asian restraint: negative space is composition, never
+crowd the frame, wet-on-wet transparency`
 
-Notes: the dress IS a bouquet, not a garment — blooms extend beyond the
-body silhouette. Vivid flowers, pale ground: the contrast is the point.
-Heels and crown always match the dress flowers. A muted dress-shape with
-a detailed front face is the failure mode.
+Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
+- Hierarchy: the full figure is always readable head to toe — face,
+  torso, both legs, heels. Flowers never cover the face, torso, or legs.
+  The skirt's translucent wash may spread wide, but the blooms inside it
+  stay accents.
+- Scale (this supersedes the earlier "blooms larger than the torso,
+  exploding beyond the silhouette" wording): the largest single bloom
+  is at most about head size — the yellow hip bloom in ref 42 is the
+  ceiling, and even it covers no body. Ref 41 (green): skirt mostly
+  translucent wash with small scattered blooms, legs and heels fully
+  visible. Ref 43 (pastel): shortest skirt, longest visible legs, the
+  most person-first of the set. Ref 44 (pastel large): flowers cascade
+  as a gown but stay translucent with face and torso as the focal point.
+  Ref 45 (navy): small scattered blooms and sparkles on translucent dark
+  layers, full body line readable.
+- Transparency and elegance: layered translucent petals, luminous
+  color, body line showing through or beside the wash — never an opaque
+  pile of flowers hiding the figure. Vivid but restrained, emotional and
+  detailed, never flat saturation or wall-to-wall density.
+- East Asian inflection (borrowed from the pencil-line-poetry manner,
+  line and space only): fine delicate lines, generous negative space,
+  quiet grace, one calm emotion, never a crowded frame. Do NOT import
+  that skill's tiny-character / giant-nature scale play — it contradicts
+  person-first and is excluded here.
+- Heels and crown always match the dress flowers. A muted dress-shape
+  with a detailed front face fails, and so does any flower mass that
+  hides the figure.
 Clean-transparency rule (standing, 2026-11-05 user correction — this
 supersedes the earlier "splatters and drips / bleeding beyond lines"
-wording in this block): vivid but emotional and detailed, never flat
-saturation; flowers transparent and clean; even soft or blurred passages
-stay clean, never runny, smeared, or muddy; paint appears only as round
-droplet beads, never as paint flowing downward; splatter only as
-discrete dots. Running drips, downward streaks, and muddy blurred washes
-fail this block.
+wording in this block): vivid but emotional and detailed; flowers
+transparent and clean; even soft or blurred passages stay clean, never
+runny, smeared, or muddy; paint appears only as round droplet beads,
+never as paint flowing downward; splatter only as discrete dots.
+Running drips, downward streaks, and muddy blurred washes fail this
+block.
 
 ## 2. European storybook atmosphere
 

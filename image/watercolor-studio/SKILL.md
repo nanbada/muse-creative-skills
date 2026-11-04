@@ -75,18 +75,25 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   three-quarter view, minimal features — never a large detailed front face.
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
-- **Floral-fashion DNA check.** Silhouette must read as bouquet, not
-  garment: fitted bodice, skirt exploding into oversized translucent blooms
-  that extend beyond the body outline; blooms larger than the torso;
-  slender elongated figure with matching floral high heels and a flower
-  crown; vivid saturated flowers against a pale cream or pale pink ground;
-  discrete round pigment droplets (never running drips or downward
-  streaks), controlled soft blooming, transparent clean petals with fine
-  detail, thin swirling flourishes, scattered petals and sparkles. A soft
-  muted dress-shape with a detailed front face fails this check, and so
-  does any running drip, downward paint streak, or muddy blurred wash —
-  even soft passages stay clean (standing clean-transparency rule,
-  2026-11-05).
+- **Floral-fashion DNA check (person first).** The full figure must read
+  head to toe: face, torso, both legs, floral high heels all visible;
+  flowers never cover the face, torso, or legs. Fitted bodice, skirt of
+  translucent layered wash with modest blooms as accents — largest single
+  bloom at most about head size, skirt wash may spread but blooms stay
+  accents; slender elegant figure with matching floral high heels and a
+  small-blossom flower crown; vivid yet restrained flowers against a pale
+  cream or pale pink ground with generous empty negative space; fine
+  delicate lines, thin swirling flourishes used sparingly, discrete round
+  pigment droplets (never running drips or downward streaks), controlled
+  soft blooming, transparent clean petals with fine detail, scattered
+  petals and sparkles. East Asian restraint: negative space is
+  composition, never crowd the frame (line and space only — never the
+  tiny-character / giant-nature scale play). A soft muted dress-shape
+  with a detailed front face fails this check, and so does any flower
+  mass hiding the figure, any running drip, downward paint streak, or
+  muddy blurred wash — even soft passages stay clean (standing
+  clean-transparency rule, 2026-11-05; person-first scale rule,
+  2026-11-05, superseding "blooms larger than the torso").
 - **No copying.** A reference photo's composition may guide the painting;
   never reproduce another artist's finished artwork. The two core styles
   above are style descriptions, not copies of any single work.
