@@ -15,6 +15,24 @@ stardust details`
 Notes: translucent layered washes; soft wet-on-wet gradients; pastel and
 luminous tones; airy light background so the bleeding shines.
 
+## 1b. Floral-fashion, vivid reference (attached refs)
+
+Use when the user wants the vivid attached-reference look instead of the
+soft pastel default.
+
+`slender fashion illustration, elongated figure, profile or downcast
+three-quarter pose, small delicate face with minimal features, fitted
+bodice with skirt exploding into oversized translucent flowers, blooms
+larger than the torso, vivid saturated flower colors on a pale cream or
+pale pink luminous ground, matching floral high heels, flower crown,
+thin swirling calligraphic line flourishes, splatters and drips, color
+bleeding beyond ink outlines, wet-on-wet transparency`
+
+Notes: the dress IS a bouquet, not a garment — blooms extend beyond the
+body silhouette. Vivid flowers, pale ground: the contrast is the point.
+Heels and crown always match the dress flowers. A muted dress-shape with
+a detailed front face is the failure mode.
+
 ## 2. European storybook atmosphere
 
 `classic storybook watercolor illustration, detailed ink and wash

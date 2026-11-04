@@ -25,7 +25,12 @@ storybook scenes).
 1. **Floral-fashion fantasy** — figures in dresses woven from translucent
    flowers, rainbow clouds, stardust, or autumn foliage; ultra-fine pen
    outlines; translucent layered washes; pastel luminous tones; clean white
-   or light paper background. Default for portraits and fashion.
+   or light paper background. Default for portraits and fashion. When the
+   user wants the vivid attached-reference look, apply the reference DNA
+   in `references/style-prompts.md` section 1b instead of the soft pastel
+   default: fitted bodice with a skirt that IS a bouquet of oversized
+   blooms, slender elongated figure, matching floral heels and flower
+   crown, vivid saturated flowers on a pale luminous ground.
 2. **European storybook atmosphere** — cozy cafe terraces, vintage
    cobblestone streets after rain, black cats under the moon, warm cottage
    interiors; detailed ink linework; warm lantern light, wet-road
@@ -65,9 +70,19 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   transparency. Overly busy or photo-realistic prompt words fight the
   medium — cut them.
 - **Faces.** For human figures, always specify delicate facial features
-  and fine line art; otherwise faces go muddy or distorted.
+  and fine line art; otherwise faces go muddy or distorted. Floral-fashion
+  figures: small delicate face, often in profile or downcast
+  three-quarter view, minimal features — never a large detailed front face.
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
+- **Floral-fashion DNA check.** Silhouette must read as bouquet, not
+  garment: fitted bodice, skirt exploding into oversized translucent blooms
+  that extend beyond the body outline; blooms larger than the torso;
+  slender elongated figure with matching floral high heels and a flower
+  crown; vivid saturated flowers against a pale cream or pale pink ground;
+  splatters, drips, color bleeding beyond ink lines, thin swirling
+  flourishes, scattered petals and sparkles. A soft muted dress-shape with
+  a detailed front face fails this check.
 - **No copying.** A reference photo's composition may guide the painting;
   never reproduce another artist's finished artwork. The two core styles
   above are style descriptions, not copies of any single work.
