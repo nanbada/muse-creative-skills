@@ -25,13 +25,24 @@ three-quarter pose, small delicate face with minimal features, fitted
 bodice with skirt exploding into oversized translucent flowers, blooms
 larger than the torso, vivid saturated flower colors on a pale cream or
 pale pink luminous ground, matching floral high heels, flower crown,
-thin swirling calligraphic line flourishes, splatters and drips, color
-bleeding beyond ink outlines, wet-on-wet transparency`
+thin swirling calligraphic line flourishes, small round pigment droplets
+as beads, never running drips or downward streaks, soft watercolor
+blooming kept clean and controlled, transparent layered petals with
+crisp clean edges, vivid yet emotionally detailed rendering, fine petal
+veins and layered translucency, wet-on-wet transparency`
 
 Notes: the dress IS a bouquet, not a garment — blooms extend beyond the
 body silhouette. Vivid flowers, pale ground: the contrast is the point.
 Heels and crown always match the dress flowers. A muted dress-shape with
 a detailed front face is the failure mode.
+Clean-transparency rule (standing, 2026-11-05 user correction — this
+supersedes the earlier "splatters and drips / bleeding beyond lines"
+wording in this block): vivid but emotional and detailed, never flat
+saturation; flowers transparent and clean; even soft or blurred passages
+stay clean, never runny, smeared, or muddy; paint appears only as round
+droplet beads, never as paint flowing downward; splatter only as
+discrete dots. Running drips, downward streaks, and muddy blurred washes
+fail this block.
 
 ## 2. European storybook atmosphere
 

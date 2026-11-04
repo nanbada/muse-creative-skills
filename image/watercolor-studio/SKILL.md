@@ -80,9 +80,13 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   that extend beyond the body outline; blooms larger than the torso;
   slender elongated figure with matching floral high heels and a flower
   crown; vivid saturated flowers against a pale cream or pale pink ground;
-  splatters, drips, color bleeding beyond ink lines, thin swirling
-  flourishes, scattered petals and sparkles. A soft muted dress-shape with
-  a detailed front face fails this check.
+  discrete round pigment droplets (never running drips or downward
+  streaks), controlled soft blooming, transparent clean petals with fine
+  detail, thin swirling flourishes, scattered petals and sparkles. A soft
+  muted dress-shape with a detailed front face fails this check, and so
+  does any running drip, downward paint streak, or muddy blurred wash —
+  even soft passages stay clean (standing clean-transparency rule,
+  2026-11-05).
 - **No copying.** A reference photo's composition may guide the painting;
   never reproduce another artist's finished artwork. The two core styles
   above are style descriptions, not copies of any single work.
