@@ -24,7 +24,9 @@ watercolor flowers, but the figure carries the picture.
 `slender elegant fashion illustration, figure reading clearly as a
 person, person first, profile or downcast three-quarter pose, small
 delicate face with minimal features, fitted bodice always readable,
-skirt of translucent layered watercolor wash with modest flowers as
+hourglass silhouette upper body with a defined waist and a gentle bust
+curve, elegant and never exaggerated, skirt of translucent layered
+watercolor wash with modest flowers as
 accents, flowers smaller than the head, never covering the face or
 fitted upper torso, legs and shoes readable unless a long floral dress
 skirt covers them by design, flower crown of small blossoms, vivid yet
@@ -68,6 +70,11 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   quiet grace, one calm emotion, never a crowded frame. Do NOT import
   that skill's tiny-character / giant-nature scale play — it contradicts
   person-first and is excluded here.
+- Hourglass upper body (standing, 2026-11-05 user rule): the upper torso
+  is an hourglass silhouette — a defined narrow waist, a gentle bust
+  curve above it, the hip curve flowing below into the skirt. Elegant
+  fashion-illustration hourglass, never exaggerated. The waist line must
+  read even under the translucent wash; a straight or boxy torso fails.
 - Heels (when visible) and crown always match the dress flowers. A muted
   dress-shape with a detailed front face fails, and so does any flower
   mass that hides the face, the upper torso, or the whole posture (legs

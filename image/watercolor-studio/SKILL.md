@@ -76,13 +76,16 @@ If the user names no sub-style, infer from the subject (fashion/portrait
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
 - **Floral-fashion DNA check (person first, tiered coverage).** The
-  figure must read as a person: face and fitted upper torso always clear,
-  flowers never covering them. Below the waist follows the dress style:
+  figure must read as a person: face and fitted hourglass upper torso
+  always clear — defined waist, gentle bust curve, elegant and never
+  exaggerated; a straight or boxy torso fails. Flowers never cover the
+  face or upper torso. Below the waist follows the dress style:
   legs and floral high heels visible for short or tea-length skirts, but
   legs and shoes may be covered when flowers are the dress itself (long
   floral gown, cascading bouquet skirt) — that coverage is the garment,
-  not a failure. Fitted bodice, skirt of translucent layered wash with
-  modest blooms as accents — largest single bloom at most about head
+  not a failure. Fitted hourglass bodice with a defined waist, skirt of
+  translucent layered wash with modest blooms as accents — largest
+  single bloom at most about head
   size, skirt wash may spread but blooms stay accents; slender elegant
   figure with matching floral high heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
