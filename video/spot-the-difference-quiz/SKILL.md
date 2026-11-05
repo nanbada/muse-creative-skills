@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.6 — updated 2026-11-05: Shorts thumbnail is the first frame (0:00 problem card), never the middle/announcement frame.
 > v1.0.5 — updated 2026-11-05: differences color-distinguished, large, front-placed; review hold 3 days to 1 hour.
 > v1.0.4 — updated 2026-11-05: B version model-generated only, flat-fill patches banned, patch-artifact eye gate.
 > v1.0.3 — updated 2026-11-03: expanded item categories, ad-friendly staging, two-phase operation.
