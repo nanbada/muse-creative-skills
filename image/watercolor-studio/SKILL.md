@@ -92,7 +92,9 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   size, skirt wash may spread but blooms stay accents; slender elegant
   figure with matching floral high heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
-  cream or pale pink ground with generous empty negative space; fine
+  cream or pale pink ground (color follows mood: vivid primaries under a
+  bright blue autumn sky and sunlight, pastels only for soft or dreamy
+  moods) with generous empty negative space; fine
   delicate lines, thin swirling flourishes used sparingly, discrete round
   pigment droplets (never running drips or downward streaks), controlled
   soft blooming, transparent clean petals with fine detail, scattered

@@ -82,6 +82,11 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   waist at all: the upper-body area may instead be lushly covered with
   abundant flowers. Showing the torso is a choice; hourglass is the form
   it takes when shown.
+- Color follows mood (standing, 2026-11-05 user rule): flower colors
+  match the scene atmosphere, never pastel by default. A bright blue
+  autumn sky with sunlight calls for vivid primary colors; soft, dreamy,
+  or dusk moods keep pastels. Match saturation to the light, and let the
+  background set it — blue sky and sun mean vivid, not washed-out.
 - Heels (when visible) and crown always match the dress flowers. A muted
   dress-shape with a detailed front face fails, and so does any flower
   mass that hides the face or the whole posture (upper torso lushly
