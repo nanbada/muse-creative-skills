@@ -94,7 +94,8 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   small-blossom flower crown; vivid yet restrained flowers against a pale
   cream or pale pink ground (color follows mood: vivid primaries under a
   bright blue autumn sky and sunlight, pastels only for soft or dreamy
-  moods) with generous empty negative space; fine
+  moods — vivid as transparent washes, never opaque; transparency wins
+  over saturation) with generous empty negative space; fine
   delicate lines, thin swirling flourishes used sparingly, discrete round
   pigment droplets (never running drips or downward streaks), controlled
   soft blooming, transparent clean petals with fine detail, scattered

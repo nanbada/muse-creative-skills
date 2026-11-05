@@ -87,6 +87,12 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   autumn sky with sunlight calls for vivid primary colors; soft, dreamy,
   or dusk moods keep pastels. Match saturation to the light, and let the
   background set it — blue sky and sun mean vivid, not washed-out.
+  Transparency always wins (2026-11-05 user correction): vivid means
+  vivid transparent washes, never opaque saturated blocks or dense
+  paint. If vividness and transparency conflict, keep the natural
+  transparent watercolor feel of the references — light airy washes,
+  color glowing through transparency, delicate lines, breathing space.
+  A dense opaque flower mass fails even when its colors match the mood.
 - Heels (when visible) and crown always match the dress flowers. A muted
   dress-shape with a detailed front face fails, and so does any flower
   mass that hides the face or the whole posture (upper torso lushly
