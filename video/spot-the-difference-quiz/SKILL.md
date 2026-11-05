@@ -272,6 +272,9 @@ skip the verification steps.
   that fails the eye check must NOT be published: regenerate or hold
   and report. Keep a separate per-upload approval gate unless
   auto-publish has been explicitly pre-approved for the series.
+  Shorts thumbnail: the first frame (0:00 problem card) — YouTube
+  defaults to the middle (announcement) frame, so select frame 1
+  explicitly in Studio.
 
 ## QA gate (deterministic, before the eye check)
 
