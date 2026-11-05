@@ -36,6 +36,8 @@ Hard = 5; each item is a color change, an object removal, or a count change):
 3. Count change: {{the oranges on the table go from 4 to 3}}.
 Keep the background, layout, colors, and every other object exactly the same.
 Do not add, move, recolor, or remove anything else. Do not add text.
+When an object is removed, paint the natural background in its place
+(leaves, grass, wall, sky) — never leave a flat solid-colored patch.
 Targets must stay LARGE and clearly visible once circled — never shrink
 a target into a tiny distant detail, a thin line, or a small pattern to
 raise difficulty.

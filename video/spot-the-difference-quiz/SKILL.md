@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.4 — updated 2026-11-05: B version model-generated only, flat-fill patches banned, patch-artifact eye gate.
 > v1.0.3 — updated 2026-11-03: expanded item categories, ad-friendly staging, two-phase operation.
 > v1.0.2 — updated 2026-11-03: simplified art style + large difference targets; one owned acoustic BGM (looped long-form, random sections for Shorts).
 > v1.0.1 — updated 2026-11-01: random BGM per episode, no consecutive repeat.
@@ -207,10 +208,20 @@ skip the verification steps.
    `references/prompts.md`. Check that the scene is complete and detailed
    before moving on.
 3. Generate the B version by editing the base illustration with the edit
-   prompt. Change only the planned differences. Nothing else may move,
-   recolor, appear, or disappear.
+   prompt, using the image model only. Change only the planned differences.
+   Nothing else may move, recolor, appear, or disappear. A removed object
+   must be replaced by naturally painted background (leaves, grass, wall,
+   sky); a recolor must keep the object's shape and texture. Never create
+   a difference with a flat solid fill (ellipse/rectangle/freeform mask
+   painted one color) — code edits apply to overlays only (cards, timers,
+   answer circles), never to the picture content itself.
 4. Run the QA gate below. If anything else changed, regenerate the B
-   version. Never patch a bad pair by hand-waving.
+   version. Never patch a bad pair by hand-waving. Full-resolution eye
+   check must also reject any visible flat patch: a solid color blob,
+   hard-edged oval/rectangle, or textureless smudge in the B image is an
+   eye-check failure even if the pixel map matches exactly — regenerate.
+   Model-edited B versions often fail the strict pixel map; that routes to
+   the 3-day review hold, not to a flat-fill shortcut.
 5. Build the problem card. Stack the two illustrations, add the FIND N
    DIFFERENCES title on top, and add the problem footer line at the
    bottom.
