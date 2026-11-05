@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.5 — updated 2026-11-05: differences color-distinguished, large, front-placed; review hold 3 days to 1 hour.
 > v1.0.4 — updated 2026-11-05: B version model-generated only, flat-fill patches banned, patch-artifact eye gate.
 > v1.0.3 — updated 2026-11-03: expanded item categories, ad-friendly staging, two-phase operation.
 > v1.0.2 — updated 2026-11-03: simplified art style + large difference targets; one owned acoustic BGM (looped long-form, random sections for Shorts).
@@ -221,7 +222,7 @@ skip the verification steps.
    hard-edged oval/rectangle, or textureless smudge in the B image is an
    eye-check failure even if the pixel map matches exactly — regenerate.
    Model-edited B versions often fail the strict pixel map; that routes to
-   the 3-day review hold, not to a flat-fill shortcut.
+   the 1-hour review hold, not to a flat-fill shortcut.
 5. Build the problem card. Stack the two illustrations, add the FIND N
    DIFFERENCES title on top, and add the problem footer line at the
    bottom.
@@ -282,11 +283,11 @@ Run these in order. A pair that fails any step is regenerated, not repaired.
    unplanned. (Example measurement settings: threshold 30, minimum
    component 500 px.) **Pixel-gate review rule (settled 2026-11-01):** if the eye
    check, count check, and safe zones pass but only the pixel map fails,
-   the video is NOT published immediately. It enters a 3-day user-review
-   hold: record the hold start date in the tracker and run log, and
+   the video is NOT published immediately. It enters a 1-hour user-review
+   hold: record the hold start time in the tracker and run log, and
    report the video plus the pixel report to the user. If the user does
-   not veto within 3 days, auto-publish it on day 3 (a later daily run
-   checks the hold queue and publishes it). A video that fails the eye
+   not veto within 1 hour, auto-publish it at the next run's hold-queue
+   check (a later daily run checks the hold queue and publishes it). A video that fails the eye
    check itself is NOT eligible for this rule — regenerate or hold it
    only. An earlier explicit user approval publishes it sooner.
 2. **Object count.** List every countable object in both pictures and
@@ -296,7 +297,9 @@ Run these in order. A pair that fails any step is regenerated, not repaired.
 4. **Eye check at full resolution.** Never judge a pair from a thumbnail.
    Confirm each difference is obvious once pointed out, that the answer
    circles sit exactly on their differences, and that no difference is a
-   tiny far-landscape detail (senior visibility rule above).
+   tiny far-landscape detail (senior visibility rule above). Each
+   difference must be distinguished by color, never hidden at a very
+   small size, and placed toward the front of the image when possible.
 
 ## Quality checklist (final pass)
 
@@ -310,7 +313,7 @@ Run these in order. A pair that fails any step is regenerated, not repaired.
   difference. There are exactly N marks on the final card, added one at
   a time. Answer footer line is correct (not the problem footer). No
   stray marks or margins.
-- Pair: QA gate above passed in full (or 3-day hold, if only the pixel
+- Pair: QA gate above passed in full (or 1-hour hold, if only the pixel
   map failed).
 - Shorts video: Medium 30 seconds / Hard 28 seconds, problem 15 seconds
   with the title-end countdown badge, announcement 3 seconds, answers in

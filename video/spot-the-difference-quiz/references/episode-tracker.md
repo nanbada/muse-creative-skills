@@ -17,7 +17,7 @@ Rules:
 - Never repeat a topic already in this table.
 - Difficulty is Medium or above only; record the count (3 or 5).
 - Record the QA result per episode: passed, or eye-pass / pixel-map-fail
-  with a 3-day user-review hold start date. A hold video auto-publishes on
+  with a 1-hour user-review hold start date. A hold video auto-publishes on
   day 3 if the user does not veto; an eye-check failure is never
   auto-published.
 - When testing a new hashtag set, note it in Notes and compare episodes at

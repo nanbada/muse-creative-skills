@@ -40,7 +40,9 @@ When an object is removed, paint the natural background in its place
 (leaves, grass, wall, sky) — never leave a flat solid-colored patch.
 Targets must stay LARGE and clearly visible once circled — never shrink
 a target into a tiny distant detail, a thin line, or a small pattern to
-raise difficulty.
+raise difficulty. Distinguish each difference by color; never hide a
+target at a very small size; place targets toward the front of the image
+when possible.
 ```
 
 ## Worked example of a valid difference set (from a real episode)
