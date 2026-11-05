@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.8 — updated 2026-11-05: default art style is now warm storybook painterly (was anime watercolor); watercolor stays a per-episode variation.
 > v1.0.7 — updated 2026-11-05: two registered style references for per-episode variation (warm storybook painterly; flat vector thick outlines, variation-only).
 > v1.0.6 — updated 2026-11-05: Shorts thumbnail is the first frame (0:00 problem card), never the middle/announcement frame.
 > v1.0.5 — updated 2026-11-05: differences color-distinguished, large, front-placed; review hold 3 days to 1 hour.
@@ -125,9 +126,10 @@ skip the verification steps.
   same track per episode, excluding the immediately previous episode's
   section. Record the chosen track/section in the episode tracker.
   A single fixed synthesized loop for every episode is superseded.
-- **Art style:** anime watercolor, hand-painted with soft shading — and
-  other watercolor animation styles may vary per episode (Ghibli-style,
-  pastel watercolor, sketch watercolor). Flat vector with thick black
+- **Art style:** warm storybook painterly — soft shading, rounded
+  dimensional forms, saturated warm palette, animation-like 2D. Other
+  styles may vary per episode (anime watercolor, Ghibli-style, pastel
+  watercolor, sketch watercolor). Flat vector with thick black
   outlines is excluded as the default: it looks too similar to existing
   spot-the-difference content. Keep the linework BOLD AND SIMPLE: no
   dense, finely detailed line rendering. Shapes read at a glance, with
@@ -135,13 +137,11 @@ skip the verification steps.
   seconds, especially for Shorts. Difference targets are LARGE:
   broad-area color changes and large objects, never thin lines, small
   patterns, or blurry textures.
-  Two registered reference styles (per-episode variation only, default
-  unchanged): warm storybook painterly — soft shading, rounded
-  dimensional forms, saturated warm palette, animation-like 2D; and flat
-  vector with thick dark outlines — clean cel shading, pastel palette,
-  minimal texture (use only when explicitly requested as a variation,
-  since it is excluded as the default). Never copy a reference's
-  composition, people, or dialogue — style DNA only.
+  Two registered reference styles: warm storybook painterly is the
+  default; flat vector with thick dark outlines — clean cel shading,
+  pastel palette, minimal texture (use only when explicitly requested as
+  a variation, since it is excluded as the default). Never copy a
+  reference's composition, people, or dialogue — style DNA only.
   Do not put people in the scene unless the scene genuinely needs them.
 - **Safe zones (YouTube Shorts UI):** keep all text, difference marks,
   and key elements out of the bottom 340 pixels and, for Shorts, out of
