@@ -23,9 +23,10 @@ watercolor flowers, but the figure carries the picture.
 
 `slender elegant fashion illustration, figure reading clearly as a
 person, person first, profile or downcast three-quarter pose, small
-delicate face with minimal features, fitted bodice always readable,
-hourglass silhouette upper body with a defined waist and a gentle bust
-curve, elegant and never exaggerated, skirt of translucent layered
+delicate face with minimal features, upper body either a fitted
+hourglass bodice with a defined waist and a gentle bust curve or
+lushly covered with abundant flowers, hourglass line whenever the upper
+body shows, elegant and never exaggerated, skirt of translucent layered
 watercolor wash with modest flowers as
 accents, flowers smaller than the head, never covering the face or
 fitted upper torso, legs and shoes readable unless a long floral dress
@@ -40,17 +41,18 @@ quiet grace, East Asian restraint: negative space is composition, never
 crowd the frame, wet-on-wet transparency`
 
 Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
-- Hierarchy: the figure always reads as a person — face and fitted upper
-  torso clear. Tiered coverage rule (2026-11-05 user correction, this
-  supersedes the absolute "never cover legs" clause): face and upper
-  torso are never covered, hard rule. Legs and shoes MAY be covered when
-  flowers constitute the dress style itself — a long floral gown or a
-  cascading bouquet skirt falling over the legs. That coverage is the
-  garment, not an obstruction, and is not a failure. What still fails:
-  face covered, upper torso hidden, or flowers piled so densely that the
-  posture and silhouette stop reading as a person. The skirt's
-  translucent wash may spread wide, but the blooms inside it stay
-  accents, except where the dress itself is made of them.
+- Hierarchy: the figure always reads as a person — face always clear.
+  Tiered coverage rule (2026-11-05 user correction, this supersedes the
+  absolute "never cover legs" clause): face is never covered, hard rule.
+  Legs and shoes MAY be covered when flowers constitute the dress style
+  itself — a long floral gown or a cascading bouquet skirt falling over
+  the legs. That coverage is the garment, not an obstruction, and is not
+  a failure. The upper torso follows the hourglass-conditional rule
+  below, not a never-cover rule. What still fails: face covered, or
+  flowers piled so densely that the posture and silhouette stop reading
+  as a person. The skirt's translucent wash may spread wide, but the
+  blooms inside it stay accents, except where the dress itself is made
+  of them.
 - Scale (this supersedes the earlier "blooms larger than the torso,
   exploding beyond the silhouette" wording): the largest single bloom
   is at most about head size — the yellow hip bloom in ref 42 is the
@@ -70,15 +72,21 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   quiet grace, one calm emotion, never a crowded frame. Do NOT import
   that skill's tiny-character / giant-nature scale play — it contradicts
   person-first and is excluded here.
-- Hourglass upper body (standing, 2026-11-05 user rule): the upper torso
-  is an hourglass silhouette — a defined narrow waist, a gentle bust
-  curve above it, the hip curve flowing below into the skirt. Elegant
-  fashion-illustration hourglass, never exaggerated. The waist line must
-  read even under the translucent wash; a straight or boxy torso fails.
+- Hourglass upper body, conditional (standing, 2026-11-05 user rule,
+  clarified the same day): the hourglass applies WHEN the upper body is
+  visible — a defined narrow waist, a gentle bust curve above it, the
+  hip curve flowing below into the skirt. Elegant fashion-illustration
+  hourglass, never exaggerated. When the upper body shows, the waist
+  line must read even under the translucent wash; a visible straight or
+  boxy torso fails. But there is no obligation to show the upper body or
+  waist at all: the upper-body area may instead be lushly covered with
+  abundant flowers. Showing the torso is a choice; hourglass is the form
+  it takes when shown.
 - Heels (when visible) and crown always match the dress flowers. A muted
   dress-shape with a detailed front face fails, and so does any flower
-  mass that hides the face, the upper torso, or the whole posture (legs
-  and shoes under a long floral dress excepted).
+  mass that hides the face or the whole posture (upper torso lushly
+  flower-covered, and legs and shoes under a long floral dress,
+  excepted).
 Clean-transparency rule (standing, 2026-11-05 user correction — this
 supersedes the earlier "splatters and drips / bleeding beyond lines"
 wording in this block): vivid but emotional and detailed; flowers

@@ -76,16 +76,19 @@ If the user names no sub-style, infer from the subject (fashion/portrait
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
 - **Floral-fashion DNA check (person first, tiered coverage).** The
-  figure must read as a person: face and fitted hourglass upper torso
-  always clear — defined waist, gentle bust curve, elegant and never
-  exaggerated; a straight or boxy torso fails. Flowers never cover the
-  face or upper torso. Below the waist follows the dress style:
+  figure must read as a person: face always clear, flowers never
+  covering it. Upper torso, conditional hourglass: when visible,
+  hourglass — defined waist, gentle bust curve, elegant and never
+  exaggerated; a visible straight or boxy torso fails. But the upper
+  torso need not be shown: it may be lushly covered with abundant
+  flowers instead. Below the waist follows the dress style:
   legs and floral high heels visible for short or tea-length skirts, but
   legs and shoes may be covered when flowers are the dress itself (long
   floral gown, cascading bouquet skirt) — that coverage is the garment,
-  not a failure. Fitted hourglass bodice with a defined waist, skirt of
-  translucent layered wash with modest blooms as accents — largest
-  single bloom at most about head
+  not a failure. Fitted hourglass bodice with a defined waist when the
+  upper body shows (or abundant floral coverage of the upper body
+  instead), skirt of translucent layered wash with modest blooms as
+  accents — largest single bloom at most about head
   size, skirt wash may spread but blooms stay accents; slender elegant
   figure with matching floral high heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
@@ -97,8 +100,8 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   composition, never crowd the frame (line and space only — never the
   tiny-character / giant-nature scale play). A soft muted dress-shape
   with a detailed front face fails this check, and so does any flower
-  mass hiding the face, the upper torso, or the whole posture, any
-  running drip, downward paint streak, or
+  mass hiding the face or the whole posture (upper torso lushly
+  flower-covered excepted), any running drip, downward paint streak, or
   muddy blurred wash — even soft passages stay clean (standing
   clean-transparency rule, 2026-11-05; person-first scale rule,
   2026-11-05, superseding "blooms larger than the torso").
