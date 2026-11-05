@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.7 — updated 2026-11-05: two registered style references for per-episode variation (warm storybook painterly; flat vector thick outlines, variation-only).
 > v1.0.6 — updated 2026-11-05: Shorts thumbnail is the first frame (0:00 problem card), never the middle/announcement frame.
 > v1.0.5 — updated 2026-11-05: differences color-distinguished, large, front-placed; review hold 3 days to 1 hour.
 > v1.0.4 — updated 2026-11-05: B version model-generated only, flat-fill patches banned, patch-artifact eye gate.
@@ -134,6 +135,13 @@ skip the verification steps.
   seconds, especially for Shorts. Difference targets are LARGE:
   broad-area color changes and large objects, never thin lines, small
   patterns, or blurry textures.
+  Two registered reference styles (per-episode variation only, default
+  unchanged): warm storybook painterly — soft shading, rounded
+  dimensional forms, saturated warm palette, animation-like 2D; and flat
+  vector with thick dark outlines — clean cel shading, pastel palette,
+  minimal texture (use only when explicitly requested as a variation,
+  since it is excluded as the default). Never copy a reference's
+  composition, people, or dialogue — style DNA only.
   Do not put people in the scene unless the scene genuinely needs them.
 - **Safe zones (YouTube Shorts UI):** keep all text, difference marks,
   and key elements out of the bottom 340 pixels and, for Shorts, out of
