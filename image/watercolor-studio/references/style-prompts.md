@@ -26,12 +26,13 @@ person, person first, profile or downcast three-quarter pose, small
 delicate face with minimal features, upper body either a fitted
 hourglass bodice with a defined waist and a gentle bust curve or
 lushly covered with abundant flowers, hourglass line whenever the upper
-body shows, elegant and never exaggerated, skirt of translucent layered
-watercolor wash with modest flowers as
-accents, flowers smaller than the head, never covering the face or
-fitted upper torso, legs and shoes readable unless a long floral dress
-skirt covers them by design, flower crown of small blossoms, vivid yet
-restrained flower colors on a pale
+body shows, elegant and never exaggerated, dress made of petal material
+itself, not petals stuck onto a garment, layered translucent petals
+forming the garment, some areas showing distinct petals and other areas
+reading as garment shapes in petal colors, flowers smaller than the
+head, never covering the face, legs and shoes readable unless a long
+floral dress skirt covers them by design, flower crown of small
+blossoms, vivid yet restrained flower colors on a pale
 cream or pale pink luminous ground with generous empty negative space,
 fine delicate ink lines, thin swirling calligraphic flourishes used
 sparingly, small round pigment droplets as beads, never running drips
@@ -67,6 +68,12 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   color, body line showing through or beside the wash — never an opaque
   pile of flowers hiding the figure. Vivid but restrained, emotional and
   detailed, never flat saturation or wall-to-wall density.
+- Petal-material dress (standing, 2026-11-05 user rule): the dress is
+  made of petal material, not a garment with petals stuck on it. Some
+  areas show distinct petals; areas that read as clothing are rendered
+  in petal colors as watercolor washes. Petals visibly glued or pasted
+  onto a plain dress fail; so does a plain dress with a few flowers
+  sprinkled on top.
 - East Asian inflection (borrowed from the pencil-line-poetry manner,
   line and space only): fine delicate lines, generous negative space,
   quiet grace, one calm emotion, never a crowded frame. Do NOT import

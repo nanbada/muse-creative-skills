@@ -87,10 +87,11 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   floral gown, cascading bouquet skirt) — that coverage is the garment,
   not a failure. Fitted hourglass bodice with a defined waist when the
   upper body shows (or abundant floral coverage of the upper body
-  instead), skirt of translucent layered wash with modest blooms as
-  accents — largest single bloom at most about head
-  size, skirt wash may spread but blooms stay accents; slender elegant
-  figure with matching floral high heels (when visible) and a
+  instead), dress made of petal material itself, not petals stuck onto a
+  garment: some areas show distinct petals, garment-shaped areas are
+  rendered in petal colors as watercolor washes. Largest single bloom at
+  most about head size; slender elegant figure with matching floral high
+  heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
   cream or pale pink ground (color follows mood: vivid primaries under a
   bright blue autumn sky and sunlight, pastels only for soft or dreamy
