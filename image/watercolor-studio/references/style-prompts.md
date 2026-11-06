@@ -23,15 +23,16 @@ watercolor flowers, but the figure carries the picture.
 
 `slender elegant fashion illustration, figure reading clearly as a
 person, person first, profile or downcast three-quarter pose, small
-delicate face with minimal features, upper body either a fitted
+delicate face, soft lightly sketched, eyes nearly closed, minimal
+features, upper body either a fitted
 hourglass bodice with a defined waist and a gentle bust curve or
 lushly covered with abundant flowers, hourglass line whenever the upper
-body shows, elegant and never exaggerated, dress made of petal material
-itself, not petals stuck onto a garment, layered translucent petals
-forming the garment, some areas showing distinct petals and other areas
-reading as garment shapes in petal colors, flowers smaller than the
-head, never covering the face, legs and shoes readable unless a long
-floral dress skirt covers them by design, flower crown of small
+body shows, elegant and never exaggerated, dress mostly translucent
+wash with a few distinct small petals as vivid accents, petal material
+suggested by wash color and a few small petals, never a mosaic of large
+petals, flowers much smaller than the head, never covering the face,
+legs and shoes readable unless a long floral dress skirt covers them by
+design, flower crown of small
 blossoms, vivid yet restrained flower colors on a pale
 cream or pale pink luminous ground with generous empty negative space,
 fine delicate ink lines, thin swirling calligraphic flourishes used
@@ -73,7 +74,23 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   areas show distinct petals; areas that read as clothing are rendered
   in petal colors as watercolor washes. Petals visibly glued or pasted
   onto a plain dress fail; so does a plain dress with a few flowers
-  sprinkled on top.
+  sprinkled on top. Wash-dominant (2026-11-06 v4 correction): the
+  petal material reads through translucent wash color plus a few small
+  distinct petals; a mosaic of large distinct petals fails even when
+  the material idea is right.
+- Elegance gap — v4 (2026-11-06, user rejected v3: quality differs
+  greatly from the ref; the ref's elegant artistic feeling is not
+  reflected): (1) petal scale — distinct petals/blooms much smaller
+  than the head, about one-third at most; a petal bigger than the head
+  makes the dress a heavy mosaic. (2) density/saturation — pale wash
+  dominates; vivid primaries appear only as a few small accents, never
+  dense max-saturation fill. (3) negative space — background mostly
+  empty paper; maple leaves at most 2–3, droplet splashes minimal.
+  (4) face — soft lightly sketched, eyes nearly closed; never a
+  realistic profile with eye detail. (5) dress texture — bleeding
+  wash, fine pen lines, droplet dots; never hard shapes with clear
+  borders. Reconciliation with the color-mood rule: "vivid over pastel"
+  under a bright sky means vivid ACCENTS, not vivid fill.
 - East Asian inflection (borrowed from the pencil-line-poetry manner,
   line and space only): fine delicate lines, generous negative space,
   quiet grace, one calm emotion, never a crowded frame. Do NOT import
@@ -100,6 +117,9 @@ Notes (precise re-analysis of the 5 attached refs, 2026-11-05):
   transparent watercolor feel of the references — light airy washes,
   color glowing through transparency, delicate lines, breathing space.
   A dense opaque flower mass fails even when its colors match the mood.
+  Reconciliation (2026-11-06 v4 correction): vivid means vivid accents,
+  not dominant fill — v3 read "vivid primaries" as dense fill and
+  failed on elegance. The pale wash stays dominant.
 - Heels (when visible) and crown always match the dress flowers. A muted
   dress-shape with a detailed front face fails, and so does any flower
   mass that hides the face or the whole posture (upper torso lushly

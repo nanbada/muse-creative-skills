@@ -71,8 +71,10 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   medium — cut them.
 - **Faces.** For human figures, always specify delicate facial features
   and fine line art; otherwise faces go muddy or distorted. Floral-fashion
-  figures: small delicate face, often in profile or downcast
-  three-quarter view, minimal features — never a large detailed front face.
+  figures: small delicate face, soft lightly sketched, eyes nearly
+  closed, often in profile or downcast three-quarter view, minimal
+  features — never a large detailed front face, never a realistic
+  profile with eye detail.
 - **Backgrounds.** Keep fashion/floral backgrounds airy and light so the
   watercolor bleeding reads.
 - **Floral-fashion DNA check (person first, tiered coverage).** The
@@ -88,15 +90,19 @@ If the user names no sub-style, infer from the subject (fashion/portrait
   not a failure. Fitted hourglass bodice with a defined waist when the
   upper body shows (or abundant floral coverage of the upper body
   instead), dress made of petal material itself, not petals stuck onto a
-  garment: some areas show distinct petals, garment-shaped areas are
-  rendered in petal colors as watercolor washes. Largest single bloom at
-  most about head size; slender elegant figure with matching floral high
+  garment, but wash-dominant: mostly translucent wash with a few small
+  distinct petals as vivid accents, never a mosaic of large petals.
+  Largest single petal/bloom much smaller than the head (about
+  one-third at most); slender elegant figure with matching floral high
   heels (when visible) and a
   small-blossom flower crown; vivid yet restrained flowers against a pale
   cream or pale pink ground (color follows mood: vivid primaries under a
   bright blue autumn sky and sunlight, pastels only for soft or dreamy
   moods — vivid as transparent washes, never opaque; transparency wins
-  over saturation) with generous empty negative space; fine
+  over saturation; vivid means vivid ACCENTS only, never dominant fill —
+  the v3 failure was dense max-saturation primaries) with generous empty
+  negative space — background mostly empty paper, at most 2–3 leaves,
+  droplet splashes minimal; fine
   delicate lines, thin swirling flourishes used sparingly, discrete round
   pigment droplets (never running drips or downward streaks), controlled
   soft blooming, transparent clean petals with fine detail, scattered
