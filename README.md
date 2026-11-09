@@ -49,6 +49,7 @@ New to Muse? Install in priority order — see
 | `comic-production` | "만화 제작" — 6-stage pipeline for consistent multi-panel AI comics: character lock, batch rendering, validation gates, targeted retries, post-render lettering. Distills 7 open-source comic projects. |
 | `pencil-line-poetry` | "동양미 스타일" — tiny line-drawn characters (dot eyes, minimal features) living inside an oversized photorealistic natural world: dewdrops, petals, leaves, feathers as landscape. Fine lines + macro-nature mixed media, warm golden-hour light, poetic vertical compositions. Modes: tiny line world, glow lines, line over landscape, soft painterly. |
 | `watercolor-studio` | "수채화" — turn a text prompt or a reference photo into an expressive watercolor painting: floral-fashion fantasy (translucent flower dresses, fine pen line), European storybook atmosphere (cozy cafes, rainy cobblestones, warm lantern light), botanical, loose wash, ink-and-wash. |
+| `chibi-anime-style` | "치비 애니스타일" — convert a character image into a flat-pop chibi illustration (2.5–3 heads, big round eyes, thick black outlines, flat colors, 1:1 square, solid background) while keeping the character's identity — hair, eye color, outfit, accessories. |
 
 ## Video skills (`video/`)
 
@@ -109,6 +110,7 @@ the assistant applies the skill:
 - **만화 제작** → `comic-production` (images)
 - **동양미 스타일** / **연필선 스타일** → `pencil-line-poetry` (images)
 - **수채화** → `watercolor-studio` (images)
+- **치비 애니스타일** → `chibi-anime-style` (images)
 - **식물 키우기** → `plant-growing` (videos)
 - **옷입기 영상** / **패션 동작 영상** → `fashion-motion-video` (videos)
 - **틀린그림찾기** → `spot-the-difference-quiz` (videos)
