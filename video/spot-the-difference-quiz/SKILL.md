@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.9 — updated 2026-11-21: difficulty raised across the board for Medium and Hard — medium/small targets, same-hue color shifts, count-among-many, busy/mid-ground placement; large-area changes and complementary-contrast shifts no longer the default.
 > v1.0.8 — updated 2026-11-05: default art style is now warm storybook painterly (was anime watercolor); watercolor stays a per-episode variation.
 > v1.0.7 — updated 2026-11-05: two registered style references for per-episode variation (warm storybook painterly; flat vector thick outlines, variation-only).
 > v1.0.6 — updated 2026-11-05: Shorts thumbnail is the first frame (0:00 problem card), never the middle/announcement frame.
@@ -134,9 +135,11 @@ skip the verification steps.
   spot-the-difference content. Keep the linework BOLD AND SIMPLE: no
   dense, finely detailed line rendering. Shapes read at a glance, with
   generous whitespace — a viewer must be able to scan the scene in
-  seconds, especially for Shorts. Difference targets are LARGE:
-  broad-area color changes and large objects, never thin lines, small
-  patterns, or blurry textures.
+  seconds, especially for Shorts. Difference targets are medium or
+  small, camouflaged by same-hue color shifts, count-among-many, or
+  busy placement — never thin lines, small patterns, or blurry textures,
+  and never large, glanceable changes either: a viewer should need to
+  scan, not just look.
   Two registered reference styles: warm storybook painterly is the
   default; flat vector with thick dark outlines — clean cel shading,
   pastel palette, minimal texture (use only when explicitly requested as
@@ -163,27 +166,37 @@ skip the verification steps.
 
 - **Count by difficulty:** Medium = 3, Hard = 5. For long-form this
   applies per problem.
-- **Mechanisms only:** color change; a clear object disappears (the
-  object must be unmistakable, not a background twig); a count change in
-  the 2 to 4 range. Use any combination that reaches the count.
+- **Mechanisms only:** color change (same-hue shift: red to burgundy,
+  yellow to mustard, blue to navy — complementary-contrast changes such
+  as red to teal are no longer used); a clear object disappears (the
+  object must be unmistakable once pointed out, not a background twig);
+  a count change among 6 or more similar objects (one of 12 windows,
+  one of 8 birds). Use any combination that reaches the count.
 - **Banned at every difficulty:** subtle tone or brightness shifts, small
   detail changes, density changes, anything arguable after the answer is
-  revealed.
+  revealed. A target may be medium or small, but its shape and color
+  must be identifiable at full resolution — small is not invisible.
 - **Placement and difficulty:** Medium or above only — Easy is excluded.
-  Differences sit at edges and corners, are mid-size, and the scene is
-  detailed enough to take time to scan. Hard uses the same mechanisms
-  only, toward edges and corners, with a mid-size color-change target.
-  Never make a Hard episode by breaking the ban list.
+  Differences sit at edges and corners, in busy or patterned areas, or
+  at mid-ground — front placement only is no longer the rule. Targets
+  are medium or small: a broad-area color change or a large object
+  disappearing is no longer the default. Hard uses the same mechanisms
+  only, with more camouflage (same-hue shifts, count-among-many, busy
+  placement). Never make a Hard episode by breaking the ban list.
+  Tier calibration: Medium = scanning is needed but the differences
+  are findable inside the find window (never obvious at a glance);
+  Hard = pause and replay are needed.
 - **Banned as "too easy":** a large central object plus a large
   foreground object combination (for example: hot-air balloon
   color change plus foreground bicycle disappearance, solved in
-  10 seconds).
+  10 seconds); any difference obvious at a glance — a viewer should
+  need to scan, not just look.
 - **Visibility (audience: students through seniors):** never make a
-  difference a tiny, blurry, far-landscape detail. Make the target large
-  enough, colour-distinct, or placed forward enough to be clearly visible
-  once circled, including to senior viewers. All problems need not be
-  senior-focused, but no difference may be invisible to a senior viewer
-  once it is pointed out. A distant, small bird in the sky is the
+  difference a tiny, blurry, far-landscape detail. A target may be
+  medium or small, but it must be clearly visible once circled,
+  including to senior viewers — shape and color identifiable at full
+  resolution, never a thin line, tiny pattern, or blurry texture.
+  A distant, small bird in the sky is the
   counter-example: too small and too far to see clearly.
 - **Scene identity:** keep the background and layout identical in both
   pictures. Only the planned differences change.
@@ -310,8 +323,9 @@ Run these in order. A pair that fails any step is regenerated, not repaired.
    Confirm each difference is obvious once pointed out, that the answer
    circles sit exactly on their differences, and that no difference is a
    tiny far-landscape detail (senior visibility rule above). Each
-   difference must be distinguished by color, never hidden at a very
-   small size, and placed toward the front of the image when possible.
+   difference must be identifiable at full resolution and obvious once
+   circled — but never obvious at a glance: it must require scanning,
+   camouflaged by same-hue color, count-among-many, or busy placement.
 
 ## Quality checklist (final pass)
 
@@ -340,9 +354,12 @@ Run these in order. A pair that fails any step is regenerated, not repaired.
 
 - Designing a fourth accidental difference. Verify the pair instead of
   trusting the edit.
-- Making differences subtle to raise difficulty. Subtle is not hard, it
-  is unfair. Raise difficulty with placement and target size, never with
-  subtlety.
+- Making differences invisible to raise difficulty. Invisible is not
+  hard, it is unfair. Raise difficulty with camouflage — same-hue color
+  shifts, count-among-many, busy or mid-ground placement — never with
+  thin lines, tiny patterns, or blurry texture. A target may be medium
+  or small, but its shape and color must be identifiable at full
+  resolution and obvious once circled.
 - Putting the countdown over a picture or on the divider. It can cover a
   difference area; it belongs only at the end of the title.
 - Reusing the problem footer on the answer card. The problem is over —
