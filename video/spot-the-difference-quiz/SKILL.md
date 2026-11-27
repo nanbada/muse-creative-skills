@@ -5,6 +5,7 @@ description: Build a complete YouTube-optimized spot-the-difference quiz package
 
 # Spot the Difference Quiz (YouTube-Optimized)
 
+> v1.0.10 — updated 2026-11-27: detail density raised — rich props/textures/layers, no large empty areas; detail comes from objects/props/textures/layers, NOT from dense thin linework (bold simple linework stays).
 > v1.0.9 — updated 2026-11-21: difficulty raised across the board for Medium and Hard — medium/small targets, same-hue color shifts, count-among-many, busy/mid-ground placement; large-area changes and complementary-contrast shifts no longer the default.
 > v1.0.8 — updated 2026-11-05: default art style is now warm storybook painterly (was anime watercolor); watercolor stays a per-episode variation.
 > v1.0.7 — updated 2026-11-05: two registered style references for per-episode variation (warm storybook painterly; flat vector thick outlines, variation-only).
@@ -135,7 +136,15 @@ skip the verification steps.
   spot-the-difference content. Keep the linework BOLD AND SIMPLE: no
   dense, finely detailed line rendering. Shapes read at a glance, with
   generous whitespace — a viewer must be able to scan the scene in
-  seconds, especially for Shorts. Difference targets are medium or
+  seconds, especially for Shorts. **Detail density:** scenes must be
+  rich — layered background (shelves, wall decor, view through a
+  window), foreground props (tools, containers, fabric, food), textures
+  (wood grain, fabric folds, stone, metal), animals or people where the
+  scene needs them. No large empty areas (empty sky, bare wall, empty
+  floor). Detail comes from objects/props/textures/layers, NOT from
+  dense thin linework — linework stays BOLD AND SIMPLE. The scene must
+  still read at a glance: detail is organized in clear zones/layers,
+  not clutter that hides the differences. Difference targets are medium or
   small, camouflaged by same-hue color shifts, count-among-many, or
   busy placement — never thin lines, small patterns, or blurry textures,
   and never large, glanceable changes either: a viewer should need to
